@@ -30,18 +30,6 @@ This project presents a comprehensive **exploratory data analysis (EDA)** of ele
 
 ---
 
-## 🗂️ Project Structure
-
-📂 ev-data-analysis
-├── ev_dataset.csv                # Final cleaned dataset
-├── ev_data_scraper.py           # BeautifulSoup scraper script
-├── ev_analysis.ipynb            # Full Jupyter Notebook analysis
-├── requirements.txt             # Python dependencies
-└── README.md                    # This documentation
-
-
-
----
 
 ## 🛠️ Tools & Libraries Used
 
