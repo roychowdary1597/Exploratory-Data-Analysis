@@ -1,0 +1,747 @@
+Brand,Model,Availability,Availability_Status,Range(in_mile),Efficiency(Wh/mile),Weight_in_Kg,t_0_60_mph,Battery_Capacity(kWh),Seating_Capacity,Boot Space(in_Litres),Price_Per_Range(in_£),Model Price(in_£)
+Tesla,Model Y Long Range AWD,Discontinued,(February 2022 - February 2025),275,273.0,2054.0,5.0,75.0,7,971.0,189.0,51990
+Tesla,Model 3 Long Range AWD,Discontinued,(February 2022 - October 2023),300,250.0,1919.0,4.4,75.0,5,649.0,170.0,50990
+Kia,EV3 Long Range,Available,to order since October 2024,280,279.0,1885.0,7.7,78.0,5,485.0,129.0,35995
+Tesla,Model 3 RWD (Highland CATL LFP64),Available,to order since May 2025,275,220.0,1836.0,6.1,60.5,5,682.0,145.0,39990
+Tesla,Model Y RWD (Juniper),Available,to order since February 2025,235,257.0,2003.0,5.9,60.5,5,971.0,191.0,44990
+Kia,e-Niro 64 kWh,Discontinued,(January 2021 - April 2022),230,278.0,1812.0,7.8,64.0,5,451.0,152.0,34995
+MG,MG4 EV Long Range,Available,to order since October 2022,225,274.0,1726.0,7.9,61.7,5,363.0,131.0,29495
+Renault,5 E-Tech 52kWh 150hp,Available,to order since December 2024,200,260.0,1524.0,8.0,52.0,5,326.0,135.0,26995
+BYD,SEAL 82.5 kWh AWD Excellence,Available,to order since September 2023,275,300.0,2260.0,3.8,82.5,5,453.0,177.0,48695
+Kia,Niro EV,Available,to order since July 2022,240,270.0,1757.0,7.8,64.8,5,495.0,155.0,37295
+Ford,Capri Standard Range RWD,Available,to order since February 2025,195,267.0,1914.0,9.0,52.0,5,572.0,216.0,42075
+Skoda,Elroq 85,Available,to order since October 2024,280,275.0,2119.0,6.6,77.0,5,470.0,138.0,38660
+Renault,Scenic E-Tech 220hp Long Range,Available,to order since December 2023,300,290.0,1917.0,7.9,87.0,5,545.0,137.0,40995
+Hyundai,Kona Electric 65 kWh,Available,to order since July 2023,240,273.0,1773.0,7.8,65.4,5,493.0,161.0,38595
+Mercedes-Benz,CLA 250+,Available,to order since May 2025,350,243.0,2055.0,6.7,85.0,5,506.0,130.0,45615
+Tesla,Model Y Long Range RWD (Juniper),Available,to order since February 2025,290,259.0,1976.0,5.6,75.0,5,971.0,169.0,48990
+Tesla,Model 3 Long Range RWD (Highland),Available,to order since October 2024,340,221.0,1822.0,5.2,75.0,5,682.0,132.0,44990
+BYD,DOLPHIN 60.4 kWh,Available,to order since September 2023,215,281.0,1733.0,7.0,60.5,5,345.0,140.0,30195
+Mercedes-Benz,EQB 250+,Available,to order since December 2023,260,271.0,2105.0,8.9,70.5,7,495.0,203.0,52800
+MG,MG5 EV Long Range,Available,to order since July 2022,205,280.0,1637.0,7.7,57.4,5,479.0,151.0,30995
+Nissan,Leaf,Discontinued,(March 2022 - December 2024),145,269.0,1580.0,7.9,39.0,5,435.0,197.0,28495
+BMW,i4 eDrive40,Available,to order since June 2024,320,254.0,2125.0,5.6,81.3,5,470.0,186.0,59365
+Hyundai,IONIQ Electric,Discontinued,(October 2019 - July 2022),155,247.0,1602.0,9.7,38.3,5,357.0,207.0,32050
+Kia,EV3 Standard Range,Available,to order since October 2024,200,275.0,1800.0,7.5,55.0,5,485.0,165.0,32995
+Mercedes-Benz,EQA 250+,Available,to order since December 2023,260,271.0,2050.0,8.6,70.5,5,340.0,191.0,49750
+Hyundai,Kona Electric 64 kWh,Discontinued,(June 2021 - June 2023),240,267.0,1760.0,7.9,64.0,5,332.0,157.0,37750
+Skoda,Enyaq 85,Discontinued,(October 2023 - January 2025),280,275.0,2137.0,6.7,77.0,5,585.0,159.0,44540
+MG,ZS EV Long Range,Available,to order since December 2021,230,297.0,1695.0,8.4,68.3,5,448.0,143.0,32995
+Kia,EV9 99.8 kWh AWD GT-Line,Available,to order since September 2023,265,362.0,2648.0,5.3,96.0,7,385.0,277.0,73285
+Skoda,Enyaq 85,Available,to order since January 2025,285,270.0,2141.0,6.7,77.0,5,585.0,155.0,44310
+Renault,Zoe ZE50 R135,Discontinued,(January 2020 - May 2024),190,274.0,1577.0,9.5,52.0,5,338.0,158.0,29995
+MG,MGS5 EV Long Range,Available,to order since March 2025,225,276.0,1755.0,6.3,62.1,5,453.0,138.0,30995
+BMW,i4 eDrive40,Discontinued,(November 2021 - May 2024),320,252.0,2125.0,5.7,80.7,5,470.0,181.0,57890
+Audi,e-tron 55 quattro,Discontinued,(March 2021 - September 2022),225,384.0,2565.0,5.7,86.5,5,660.0,324.0,72935
+Tesla,Model Y Long Range AWD (Juniper),Available,to order since February 2025,280,268.0,2072.0,4.8,75.0,5,971.0,186.0,51990
+Ford,Explorer Extended Range RWD,Available,to order since March 2024,270,285.0,2090.0,6.4,77.0,5,536.0,170.0,45875
+BYD,SEAL 82.5 kWh RWD Design,Available,to order since September 2023,295,280.0,2130.0,5.9,82.5,5,453.0,155.0,45695
+Mercedes-Benz,EQC 400 4MATIC,Discontinued,(December 2020 - June 2023),230,348.0,2495.0,5.1,80.0,5,500.0,323.0,74330
+Audi,Q4 e-tron 45,Available,to order since January 2024,260,296.0,2145.0,6.7,77.0,5,520.0,197.0,51310
+Mini,Electric,Discontinued,(March 2021 - February 2024),110,263.0,1440.0,7.3,28.9,4,211.0,296.0,32550
+Mercedes-Benz,EQS 450+,Available,to order since April 2024,425,278.0,2545.0,6.2,118.0,5,620.0,265.0,112610
+Ford,Puma Gen-E,Available,to order since December 2024,170,256.0,1563.0,8.0,43.6,5,566.0,176.0,29995
+Polestar,2 Long Range Single Motor,Discontinued,(September 2021 - January 2023),260,288.0,2069.0,7.4,75.0,5,440.0,179.0,46450
+Renault,Zoe ZE50 R110,Discontinued,(January 2020 - June 2022),195,267.0,1577.0,11.4,52.0,5,338.0,149.0,29095
+BMW,iX xDrive 40,Discontinued,(November 2021 - January 2025),220,323.0,2440.0,6.1,71.0,5,500.0,318.0,69905
+Skoda,Elroq 60,Available,to order since January 2025,215,274.0,1978.0,8.5,59.0,5,470.0,155.0,33360
+Polestar,2 Long Range Performance (MY24),Discontinued,(January 2023 - September 2024),280,282.0,2180.0,4.2,79.0,5,446.0,207.0,57950
+Volkswagen,ID.7 Pro S,Available,to order since July 2024,325,265.0,2226.0,6.6,86.0,5,532.0,171.0,55450
+Nissan,Leaf,Discontinued,(February 2018 - March 2022),145,269.0,1580.0,7.9,39.0,5,435.0,195.0,28290
+Polestar,4 Long Range Dual Motor,Available,to order since January 2024,300,313.0,2430.0,3.8,94.0,5,541.0,223.0,66990
+Hyundai,INSTER Long Range,Available,to order since October 2024,185,249.0,1410.0,10.6,46.0,4,280.0,135.0,25045
+Ford,Capri Extended Range AWD,Available,to order since July 2024,285,277.0,2175.0,5.3,79.0,5,572.0,197.0,56175
+Omoda,E5,Available,to order since September 2024,215,284.0,1785.0,7.6,61.0,5,380.0,154.0,33055
+Citroen,e-C3,Available,to order since July 2024,160,275.0,1491.0,11.5,44.0,5,310.0,137.0,21990
+MG,MG4 EV Standard Range,Available,to order since October 2022,185,275.0,1710.0,7.7,50.8,5,363.0,146.0,26995
+BMW,iX3,Discontinued,(September 2021 - October 2024),240,308.0,2255.0,6.8,74.0,5,510.0,267.0,64165
+Volvo,EX30 Single Motor ER (MY24-26),Available,to order since June 2023,225,289.0,1850.0,5.3,65.0,5,325.0,166.0,37260
+Kia,EV6 GT,Discontinued,(April 2022 - August 2024),220,336.0,2200.0,3.5,74.0,5,500.0,285.0,62645
+Skoda,Enyaq iV 80,Discontinued,(May 2021 - October 2023),270,285.0,2075.0,8.6,77.0,5,585.0,159.0,42925
+Renault,Megane E-Tech EV60 220hp,Discontinued,(November 2022 - April 2025),235,255.0,1711.0,7.4,60.0,5,440.0,162.0,37995
+BMW,iX1 xDrive30,Available,to order since November 2022,235,275.0,2085.0,5.6,64.7,5,490.0,202.0,47465
+Volkswagen,e-Golf,Discontinued,(May 2017 - December 2020),115,278.0,1615.0,9.6,32.0,5,341.0,244.0,28075
+BMW,i4 M50,Available,to order since June 2024,280,290.0,2290.0,3.9,81.3,5,470.0,258.0,72375
+BYD,DOLPHIN SURF 43.2 kWh Comfort,Available,to order since May 2025,165,262.0,1465.0,9.1,43.2,4,308.0,145.0,23950
+Tesla,Model 3 Standard Range Plus (PANA 2170L),Discontinued,(February 2021 - December 2021),215,237.0,1700.0,5.6,51.0,5,649.0,191.0,40990
+Tesla,Model 3 Performance (Highland),Available,to order since May 2024,305,246.0,1929.0,3.2,75.0,5,682.0,197.0,59990
+Mini,Cooper Electric SE,Available,to order since March 2024,205,240.0,1680.0,6.7,49.2,4,200.0,168.0,34500
+Mercedes-Benz,CLA 350 4MATIC,Available,to order from August 2025,340,250.0,2135.0,4.9,85.0,5,506.0,147.0,50000
+Nissan,Ariya 87kWh,Available,to order since August 2022,280,311.0,2121.0,7.6,87.0,5,468.0,159.0,44645
+Kia,EV6 Long Range 2WD,Discontinued,(February 2022 - August 2024),255,290.0,1985.0,7.3,74.0,5,532.0,177.0,45245
+Polestar,4 Long Range Single Motor,Available,to order since January 2024,305,308.0,2305.0,7.4,94.0,5,541.0,197.0,59990
+Tesla,Model Y Long Range RWD,Discontinued,(October 2024 - February 2025),280,268.0,1959.0,5.9,75.0,5,971.0,168.0,46990
+Kia,EV4 Hatchback Long Range,Available,to order from August 2025,295,264.0,1900.0,7.7,78.0,5,435.0,142.0,42000
+Jaguar,I-Pace EV400,Discontinued,(July 2020 - January 2023),235,360.0,2208.0,4.8,84.7,5,505.0,282.0,66350
+Hyundai,IONIQ 6 Long Range 2WD,Available,to order since December 2022,305,243.0,1985.0,7.4,74.0,5,446.0,154.0,47040
+Peugeot,e-3008 73 kWh,Available,to order since January 2024,235,311.0,2183.0,8.8,73.0,5,588.0,196.0,45960
+Volkswagen,ID.4 Pro,Available,to order since November 2023,275,280.0,2144.0,6.7,77.0,5,543.0,167.0,46035
+Volkswagen,ID.3 Pro S,Available,to order since June 2024,290,266.0,1957.0,7.1,77.0,5,385.0,135.0,39190
+Volkswagen,ID.7 Pro,Available,to order since November 2023,295,261.0,2172.0,6.5,77.0,5,532.0,175.0,51550
+Vauxhall,Mokka-e,Discontinued,(December 2021 - January 2024),160,289.0,1598.0,9.2,46.3,5,310.0,229.0,36610
+Tesla,Model 3 Long Range AWD (Highland),Available,to order since October 2023,325,231.0,1899.0,4.4,75.0,5,682.0,154.0,49990
+Dacia,Spring Electric 45,Available,to order since September 2024,100,250.0,1009.0,19.1,25.0,4,343.0,150.0,14995
+MG,MG4 EV Extended Range,Available,to order since August 2023,265,281.0,1826.0,6.5,74.4,5,363.0,138.0,36495
+BMW,iX xDrive 45,Available,to order since January 2025,290,327.0,2525.0,5.1,94.8,5,500.0,260.0,75305
+Volkswagen,ID.3 Pro,Discontinued,(May 2023 - May 2024),220,264.0,1815.0,7.3,58.0,5,385.0,205.0,44990
+CUPRA,Born 58 kWh,Discontinued,(April 2022 - July 2024),215,270.0,1811.0,7.3,58.0,5,385.0,159.0,34125
+Vauxhall,Corsa-e,Discontinued,(December 2021 - October 2023),180,257.0,1530.0,8.1,46.3,5,309.0,189.0,33930
+Hyundai,IONIQ 5 84 kWh RWD (MY24),Available,to order since July 2024,280,286.0,2060.0,7.5,80.0,5,577.0,155.0,43400
+BYD,SEALION 7 82.5 kWh RWD Comfort,Available,to order since February 2025,255,324.0,2300.0,6.7,82.5,5,578.0,184.0,46990
+Jeep,Avenger Electric,Available,to order since June 2023,190,267.0,1595.0,9.0,50.8,5,355.0,183.0,34800
+BMW,i3 120 Ah,Discontinued,(November 2018 - July 2022),145,261.0,1345.0,7.3,37.9,4,260.0,233.0,33805
+Lexus,UX 300e,Available,to order since April 2023,210,305.0,1850.0,7.5,64.0,5,316.0,190.0,39995
+Nissan,Leaf e+,Discontinued,(June 2019 - March 2022),215,274.0,1756.0,7.3,59.0,5,420.0,153.0,32945
+Leapmotor,T03,Available,to order since March 2025,140,257.0,1250.0,12.7,36.0,4,210.0,114.0,15995
+Tesla,Model 3 Performance,Discontinued,(November 2020 - April 2022),290,262.0,1919.0,3.4,76.0,5,649.0,207.0,59990
+Volvo,EX30 Single Motor (MY24-26),Available,to order since June 2023,170,288.0,1840.0,5.7,49.0,5,325.0,194.0,33060
+MG,ZS EV,Discontinued,(September 2019 - November 2021),135,315.0,1566.0,8.2,42.5,5,448.0,193.0,26095
+BMW,iX xDrive 50,Discontinued,(November 2021 - January 2025),315,334.0,2585.0,4.6,105.2,5,500.0,326.0,102755
+BYD,ATTO 3 (MY23-24),Discontinued,(March 2023 - April 2025),205,295.0,1825.0,7.3,60.5,5,440.0,181.0,37195
+Polestar,2 Long Range Single Motor (MY24),Discontinued,(January 2023 - September 2024),290,272.0,2084.0,6.2,79.0,5,446.0,169.0,48950
+Lotus,Eletre,Available,to order since November 2023,305,357.0,2565.0,4.5,109.0,5,657.0,298.0,90805
+Vauxhall,Corsa Electric 51 kWh,Available,to order since July 2023,195,247.0,1544.0,8.1,48.1,5,267.0,156.0,30440
+Jaguar,I-Pace EV400,Available,to order since January 2023,235,360.0,2226.0,4.8,84.7,5,532.0,298.0,69995
+Renault,Megane E-Tech EV60 220hp (TU2025),Available,to order since May 2025,235,255.0,1719.0,7.4,60.0,5,440.0,138.0,32495
+Audi,Q4 e-tron 40,Discontinued,(July 2021 - January 2024),250,306.0,2125.0,8.5,76.6,5,520.0,203.0,50630
+Tesla,Model S Plaid,Available,to order from December 2025,345,275.0,2265.0,2.3,95.0,5,798.0,290.0,100000
+CUPRA,Tavascan Endurance,Available,to order since September 2024,275,280.0,2178.0,6.8,77.0,5,540.0,172.0,47340
+Kia,EV6 RWD,Available,to order since September 2024,280,286.0,2050.0,7.3,80.0,5,542.0,163.0,45585
+BMW,iX xDrive 60,Available,to order since January 2025,325,336.0,2580.0,4.6,109.1,5,500.0,286.0,93105
+CUPRA,Born VZ,Available,to order since July 2024,285,277.0,1999.0,5.6,79.0,5,385.0,157.0,44625
+Hyundai,Kona Electric 64 kWh,Discontinued,(November 2019 - April 2021),240,267.0,1760.0,7.9,64.0,5,361.0,163.0,39150
+BYD,ATTO 3 (MY25),Available,to order since April 2025,210,288.0,1825.0,7.3,60.5,5,440.0,180.0,37705
+Hyundai,INSTER Standard Range,Available,to order since October 2024,155,252.0,1380.0,11.7,39.0,4,280.0,152.0,23495
+Peugeot,e-208 50 kWh,Available,to order since January 2024,180,257.0,1530.0,9.0,46.3,5,265.0,181.0,32650
+Peugeot,e-5008 73 kWh,Available,to order since July 2024,230,317.0,2260.0,9.7,73.0,7,348.0,212.0,48660
+Peugeot,e-2008 SUV,Discontinued,(July 2020 - December 2021),160,289.0,1623.0,8.5,46.3,5,434.0,192.0,30730
+Fiat,500e Hatchback 42 kWh,Available,to order since November 2020,145,257.0,1365.0,9.0,37.3,4,185.0,193.0,27995
+BMW,iX1 eDrive20,Available,to order since September 2023,240,270.0,1940.0,8.3,64.7,5,490.0,189.0,45465
+Audi,Q6 e-tron quattro,Available,to order since May 2024,295,322.0,2400.0,5.9,94.9,5,590.0,234.0,68975
+Rolls-Royce,Spectre,Available,to order since November 2023,290,352.0,2965.0,4.5,102.0,4,380.0,1138.0,330000
+Toyota,bZ4X FWD,Available,to order since August 2022,215,298.0,1970.0,7.5,64.0,5,452.0,199.0,42860
+Peugeot,e-208 51 kWh,Available,to order since November 2023,190,253.0,1550.0,8.2,48.1,5,265.0,171.0,32400
+Tesla,Model 3 RWD (Highland CATL LFP60),Discontinued,(October 2023 - May 2025),260,221.0,1836.0,6.1,57.5,5,682.0,154.0,39990
+XPENG,G6 RWD Long Range,Available,to order since June 2025,300,292.0,2100.0,6.7,87.5,5,571.0,150.0,44990
+BYD,SEALION 7 91.3 kWh AWD Excellence,Available,to order since February 2025,265,345.0,2510.0,4.5,91.3,5,578.0,223.0,58990
+Hyundai,IONIQ 5 Long Range 2WD (MY22),Discontinued,(June 2022 - July 2024),240,308.0,2010.0,7.3,74.0,5,584.0,196.0,46945
+Polestar,2 Long Range Dual Motor,Discontinued,(September 2021 - January 2023),240,313.0,2188.0,4.7,75.0,5,440.0,206.0,49550
+Volvo,EX30 Twin Motor Performance (MY24-26),Available,to order since June 2023,210,310.0,1960.0,3.6,65.0,5,325.0,202.0,42360
+Renault,5 E-Tech 40kWh 120hp,Available,to order since May 2025,155,258.0,1447.0,9.0,40.0,5,326.0,148.0,22995
+MG,Cyberster GT,Available,to order since April 2024,245,304.0,2060.0,3.2,74.4,2,249.0,245.0,59995
+Peugeot,e-208,Discontinued,(December 2021 - December 2023),175,265.0,1530.0,9.0,46.3,5,265.0,181.0,31595
+Citroen,e-C4,Discontinued,(December 2021 - December 2024),180,257.0,1636.0,9.7,46.3,5,380.0,178.0,31960
+Ford,Explorer Extended Range AWD,Available,to order since March 2024,275,287.0,2167.0,5.3,79.0,5,536.0,196.0,53975
+Audi,e-tron 50 quattro,Discontinued,(January 2020 - September 2021),175,370.0,2445.0,6.8,64.7,5,660.0,346.0,60600
+Tesla,Model 3 Standard Range Plus,Discontinued,(July 2019 - October 2020),195,251.0,1684.0,5.6,49.0,5,542.0,208.0,40490
+Kia,EV6 Long Range AWD,Discontinued,(January 2022 - August 2024),250,296.0,2090.0,5.2,74.0,5,500.0,207.0,51745
+CUPRA,Born 59 kWh e-Boost,Available,to order since July 2024,225,262.0,1841.0,6.7,59.0,5,385.0,158.0,35495
+BMW,i4 eDrive35,Available,to order since June 2024,265,253.0,2075.0,6.0,67.1,5,470.0,193.0,51270
+Ford,Capri Extended Range RWD,Available,to order since July 2024,285,270.0,2098.0,6.4,77.0,5,572.0,169.0,48075
+Polestar,2 Long Range Single Motor (MY26),Available,to order since April 2025,295,268.0,2084.0,6.2,79.0,5,448.0,167.0,49160
+Tesla,Model S 75D,Discontinued,(May 2016 - April 2019),235,309.0,2183.0,4.4,72.5,5,804.0,308.0,72350
+Mercedes-Benz,EQE 350+,Available,to order since July 2024,345,278.0,2415.0,6.5,96.0,5,430.0,198.0,68360
+Volkswagen,ID.7 Tourer Pro,Available,to order since May 2024,290,266.0,2191.0,6.6,77.0,5,605.0,180.0,52240
+BYD,DOLPHIN SURF 43.2 kWh Boost,Available,to order since May 2025,165,262.0,1445.0,12.1,43.2,4,308.0,133.0,21950
+MG,MG5 EV,Discontinued,(November 2020 - November 2021),180,271.0,1607.0,7.7,48.8,5,464.0,145.0,26095
+Fiat,Grande Panda,Available,to order since February 2025,160,274.0,1511.0,11.0,43.8,5,361.0,131.0,20975
+Porsche,Macan 4 Electric,Available,to order since January 2024,295,322.0,2405.0,5.2,95.0,5,624.0,237.0,69800
+Volkswagen,ID.3 Pure,Available,to order since November 2024,205,254.0,1787.0,8.2,52.0,5,385.0,150.0,30850
+Volkswagen,ID.4 Pro Performance,Discontinued,(May 2021 - November 2023),255,302.0,2109.0,8.5,77.0,5,543.0,181.0,46035
+BYD,DOLPHIN 44.9 kWh Active,Available,to order since September 2024,160,281.0,1650.0,12.3,44.9,5,345.0,164.0,26195
+Volkswagen,ID.5 Pro,Available,to order since November 2023,285,270.0,2130.0,6.7,77.0,5,549.0,179.0,50940
+Mercedes-Benz,EQB 350 4MATIC,Available,to order since December 2023,215,309.0,2165.0,6.2,66.5,7,495.0,264.0,56810
+Audi,Q6 e-tron performance,Available,to order since May 2024,300,316.0,2275.0,6.6,94.9,5,590.0,212.0,63475
+BYD,DOLPHIN SURF 30 kWh Active,Available,to order since May 2025,115,261.0,1369.0,11.1,30.0,4,308.0,162.0,18650
+Peugeot,e-3008 97 kWh Long Range,Available,to order since October 2024,310,313.0,2241.0,8.7,96.9,5,588.0,157.0,48660
+Volkswagen,ID.7 Tourer Pro S,Available,to order since July 2024,320,269.0,2235.0,6.7,86.0,5,605.0,175.0,56140
+Nissan,Leaf 30 kWh,Discontinued,(September 2015 - February 2018),105,267.0,1538.0,11.5,28.0,5,370.0,246.0,25825
+Audi,A6 Sportback e-tron performance,Available,to order since September 2024,380,250.0,2250.0,5.4,94.9,5,529.0,184.0,69940
+BMW,i5 eDrive40 Saloon,Discontinued,(May 2023 - April 2025),290,280.0,2205.0,6.0,81.2,5,490.0,256.0,74105
+Volkswagen,ID.3 Pro Performance,Discontinued,(August 2021 - March 2023),215,270.0,1812.0,7.3,58.0,5,385.0,183.0,39425
+Volvo,XC40 Recharge Twin Motor (MY24),Discontinued,(December 2022 - March 2024),235,336.0,2170.0,4.8,79.0,5,441.0,220.0,51755
+Honda,e:Ny1,Available,to order since November 2023,210,295.0,1730.0,7.6,61.9,5,361.0,190.0,39995
+Volkswagen,ID.3 Pro,Discontinued,(March 2021 - August 2021),215,270.0,1805.0,9.6,58.0,5,385.0,132.0,28420
+Skoda,Enyaq iV 60,Discontinued,(May 2021 - October 2023),210,276.0,1965.0,8.7,58.0,5,585.0,186.0,38970
+Polestar,3 Long Range Performance,Available,to order since November 2022,310,345.0,2660.0,4.7,107.0,5,516.0,263.0,81500
+Lexus,RZ 300e,Available,to order since January 2025,225,284.0,2030.0,8.0,64.0,5,522.0,222.0,49995
+Mini,Countryman E,Available,to order since February 2024,235,275.0,1940.0,8.6,64.6,5,460.0,179.0,42080
+Nissan,Ariya 63kWh,Available,to order since August 2022,205,307.0,1980.0,7.5,63.0,5,468.0,193.0,39645
+Volkswagen,e-Up!,Discontinued,(October 2021 - April 2022),125,258.0,1248.0,11.9,32.3,4,250.0,193.0,24085
+Audi,A6 Avant e-tron performance,Available,to order since September 2024,360,264.0,2260.0,5.4,94.9,5,529.0,199.0,71740
+Tesla,Model Y Long Range AWD Launch Series (Juniper),Discontinued,(January 2025 - April 2025),280,268.0,2072.0,4.3,75.0,5,971.0,218.0,60990
+Volkswagen,ID. Buzz LWB GTX,Available,to order since October 2024,215,400.0,2758.0,6.5,86.0,7,1340.0,315.0,67795
+Kia,EV6 AWD,Available,to order since September 2024,270,296.0,2160.0,5.2,80.0,5,510.0,193.0,52085
+Tesla,Model S Dual Motor,Available,to order from December 2025,355,268.0,2170.0,3.2,95.0,5,798.0,239.0,85000
+Smart,EQ fortwo coupe,Discontinued,(January 2020 - April 2023),60,278.0,1095.0,11.6,16.7,2,260.0,370.0,22225
+Audi,Q8 e-tron 55 quattro,Discontinued,(December 2022 - November 2024),315,337.0,2585.0,5.6,106.0,5,631.0,256.0,80715
+MG,MG4 EV XPOWER,Available,to order since August 2023,200,309.0,1878.0,3.8,61.7,5,363.0,182.0,36495
+Volkswagen,ID. Buzz SWB Pro,Available,to order since October 2024,225,351.0,2492.0,7.6,79.0,6,1121.0,262.0,59035
+BMW,i4 M50,Discontinued,(November 2021 - May 2024),280,288.0,2290.0,3.9,80.7,5,470.0,254.0,71085
+Porsche,Macan Electric,Available,to order since July 2024,305,311.0,2295.0,5.7,95.0,5,624.0,220.0,67200
+Mazda,MX-30,Discontinued,(July 2022 - December 2024),105,286.0,1720.0,9.7,30.0,5,366.0,298.0,31250
+Peugeot,e-5008 97 kWh Long Range,Available,to order since November 2024,300,323.0,2316.0,9.6,96.9,7,348.0,171.0,51360
+Volkswagen,ID.3 GTX Performance,Available,to order since October 2024,290,272.0,1993.0,5.6,79.0,5,385.0,159.0,46225
+Mini,Aceman SE,Available,to order since June 2024,180,273.0,1785.0,7.1,49.2,5,300.0,202.0,36300
+Nissan,Leaf 24 kWh,Discontinued,(September 2015 - February 2018),80,275.0,1505.0,11.5,22.0,5,370.0,271.0,21680
+DS,N°8 FWD Long Range,Available,to order since February 2025,340,286.0,2255.0,7.8,97.2,5,620.0,161.0,54690
+BMW,i3s 120 Ah,Discontinued,(November 2018 - July 2022),140,271.0,1365.0,6.9,37.9,4,260.0,249.0,34805
+CUPRA,Tavascan VZ,Available,to order since September 2024,265,291.0,2273.0,5.5,77.0,5,540.0,211.0,55935
+BYD,SEALION 7 82.5 kWh AWD Design,Available,to order since February 2025,250,330.0,2415.0,4.5,82.5,5,578.0,208.0,51990
+Kia,EV4 Sedan Long Range,Available,to order from August 2025,305,256.0,1900.0,7.7,78.0,5,490.0,138.0,42000
+Tesla,Model 3 Long Range AWD,Discontinued,(July 2019 - October 2020),285,258.0,1931.0,4.6,73.5,5,542.0,165.0,46990
+Polestar,2 Long Range Dual Motor (MY24),Discontinued,(January 2023 - September 2024),280,282.0,2183.0,4.5,79.0,5,446.0,189.0,52950
+Hyundai,IONIQ 5 N (MY24),Available,to order since November 2023,240,333.0,2225.0,3.4,80.0,5,480.0,271.0,65000
+Ford,Explorer Standard Range RWD,Available,to order since February 2025,190,274.0,1908.0,8.7,52.0,5,536.0,210.0,39875
+Vauxhall,Grandland 73 kWh,Available,to order since October 2024,225,324.0,2207.0,9.0,73.0,5,550.0,166.0,37355
+Volkswagen,ID.7 Tourer GTX,Available,to order since August 2024,310,277.0,2339.0,5.5,86.0,5,605.0,202.0,62670
+Lexus,UX 300e,Discontinued,(March 2021 - April 2023),145,310.0,1860.0,7.5,45.0,5,316.0,240.0,34770
+Hyundai,IONIQ 6 Long Range AWD,Available,to order since November 2022,275,269.0,2095.0,5.1,74.0,5,416.0,184.0,50540
+MG,ZS EV Standard Range,Available,to order since February 2022,165,297.0,1645.0,8.6,49.0,5,448.0,185.0,30495
+Smart,#1 Brabus,Available,to order since September 2023,200,310.0,1975.0,3.9,62.0,5,328.0,225.0,44960
+Audi,Q4 e-tron 55 quattro,Available,to order since January 2024,245,314.0,2235.0,5.4,77.0,5,520.0,235.0,57690
+Skoda,Enyaq 85x,Discontinued,(October 2023 - January 2025),270,285.0,2222.0,6.6,77.0,5,585.0,180.0,48605
+Jaguar,I-Pace EV400,Discontinued,(March 2018 - July 2020),235,360.0,2208.0,4.8,84.7,5,505.0,274.0,64495
+Porsche,Taycan 4S,Discontinued,(May 2020 - January 2023),245,290.0,2215.0,4.0,71.0,5,491.0,353.0,86500
+Tesla,Model 3 Performance,Discontinued,(April 2022 - October 2023),285,263.0,1919.0,3.4,75.0,5,649.0,203.0,57990
+Lexus,RZ 450e,Available,to order since May 2023,215,298.0,2130.0,5.6,64.0,5,522.0,259.0,55595
+Skoda,Enyaq 85x,Available,to order since January 2025,280,275.0,2230.0,6.7,77.0,5,585.0,174.0,48760
+Audi,A6 Avant e-tron,Available,to order since September 2024,290,261.0,2185.0,6.0,75.8,5,529.0,222.0,64340
+Volkswagen,ID. Buzz Pro,Discontinued,(September 2022 - July 2024),210,367.0,2459.0,10.2,77.0,5,1121.0,281.0,59035
+Peugeot,e-2008 54 kWh,Available,to order since July 2023,185,275.0,1623.0,9.1,50.8,5,434.0,202.0,37300
+Dacia,Spring Electric 65,Available,to order since September 2024,100,250.0,1032.0,13.7,25.0,4,343.0,160.0,15995
+Mercedes-Benz,B 250e,Discontinued,(January 2015 - October 2017),90,311.0,1725.0,7.9,28.0,5,501.0,321.0,28875
+Vauxhall,Corsa-e,Discontinued,(April 2020 - December 2021),175,265.0,1530.0,8.1,46.3,5,309.0,155.0,27140
+CUPRA,Born 77 kWh e-Boost,Available,to order since July 2024,285,270.0,1969.0,7.0,77.0,5,385.0,147.0,41795
+Porsche,Taycan,Discontinued,(April 2021 - January 2023),255,278.0,2125.0,5.4,71.0,5,491.0,296.0,75500
+Hyundai,IONIQ 5 84 kWh AWD (MY24),Available,to order since July 2024,275,291.0,2165.0,5.3,80.0,5,544.0,185.0,50900
+MG,MGS5 EV Standard Range,Available,to order since March 2025,170,277.0,1710.0,8.0,47.1,5,453.0,168.0,28495
+CUPRA,Born 77 kWh e-Boost,Discontinued,(April 2022 - July 2024),280,275.0,1946.0,7.0,77.0,4,385.0,142.0,39625
+Honda,e,Discontinued,(September 2020 - June 2022),105,271.0,1588.0,9.0,28.5,4,171.0,327.0,34365
+Kia,e-Niro 64 kWh,Discontinued,(July 2020 - December 2020),230,278.0,1812.0,7.8,64.0,5,451.0,147.0,33850
+Volkswagen,ID.3 Pro,Discontinued,(August 2021 - February 2022),215,270.0,1812.0,9.6,58.0,5,385.0,143.0,30700
+Mercedes-Benz,EQA 350 4MATIC,Available,to order since December 2023,215,309.0,2110.0,6.0,66.5,5,340.0,254.0,54510
+Kia,EV6 GT,Available,to order since June 2025,240,333.0,2220.0,3.5,80.0,5,500.0,250.0,59985
+Nissan,e-NV200 Combi,Discontinued,(June 2018 - December 2021),105,352.0,1667.0,14.0,37.0,7,2000.0,312.0,32755
+Smart,EQ forfour,Discontinued,(January 2020 - May 2022),55,304.0,1200.0,12.7,16.7,4,185.0,405.0,22295
+Kia,EV9 99.8 kWh AWD GT,Available,to order since June 2025,260,369.0,2648.0,4.6,96.0,7,385.0,316.0,82185
+Volkswagen,ID.4 Pure,Discontinued,(June 2021 - November 2023),175,297.0,1966.0,10.9,52.0,5,543.0,222.0,38845
+Polestar,3 Long Range Dual motor,Available,to order since November 2022,320,334.0,2660.0,5.0,107.0,5,516.0,237.0,75900
+Kia,EV9 99.8 kWh RWD,Available,to order since September 2023,280,343.0,2501.0,9.4,96.0,7,423.0,232.0,65035
+Peugeot,e-3008 73 kWh Dual Motor,Available,to order from July 2025,230,317.0,2199.0,6.4,73.0,5,588.0,204.0,47000
+Smart,#1 Pro+,Available,to order since September 2023,205,302.0,1863.0,6.7,62.0,5,338.0,180.0,36960
+BMW,i7 xDrive60,Available,to order since November 2022,315,323.0,2715.0,4.7,101.7,5,500.0,362.0,113970
+BMW,iX2 eDrive20,Available,to order since January 2024,245,264.0,1960.0,8.6,64.7,5,525.0,211.0,51615
+Hyundai,IONIQ 5 63 kWh RWD (MY24),Available,to order since July 2024,215,279.0,1955.0,8.5,60.0,5,577.0,186.0,39900
+Citroen,e-C4 X 54 kWh,Discontinued,(February 2023 - January 2025),205,248.0,1659.0,9.3,50.8,5,510.0,175.0,35800
+Hyundai,Kona Electric 48 kWh,Available,to order since July 2023,180,269.0,1690.0,8.8,48.4,5,493.0,194.0,34995
+Volkswagen,ID. Buzz LWB Pro,Available,to order since October 2024,230,374.0,2628.0,7.9,86.0,7,1340.0,258.0,59395
+Alpine,A290 Electric 220 hp,Available,to order since February 2025,190,274.0,1554.0,6.4,52.0,5,326.0,189.0,36000
+Volkswagen,ID.4 GTX,Available,to order since November 2023,260,296.0,2256.0,5.4,77.0,5,543.0,207.0,53865
+Renault,4 E-Tech 52kWh 150hp,Available,to order from July 2025,195,267.0,1537.0,8.2,52.0,5,420.0,144.0,28000
+Audi,Q4 e-tron 35,Discontinued,(July 2021 - November 2022),175,297.0,1965.0,9.0,52.0,5,520.0,255.0,44690
+Hyundai,Kona Electric 39 kWh,Discontinued,(June 2021 - June 2023),150,261.0,1610.0,9.9,39.2,5,332.0,216.0,32450
+Tesla,Model 3 RWD (CATL LFP60),Discontinued,(January 2022 - October 2023),250,230.0,1835.0,6.1,57.5,5,649.0,172.0,42990
+Audi,e-tron 50 quattro,Discontinued,(October 2021 - September 2022),175,370.0,2445.0,6.8,64.7,5,660.0,354.0,62035
+Tesla,Model 3 Long Range RWD,Discontinued,(April 2023 - October 2023),305,246.0,1825.0,5.9,75.0,5,649.0,154.0,46990
+Skoda,Enyaq 60,Discontinued,(October 2023 - June 2024),210,276.0,1992.0,8.7,58.0,5,585.0,186.0,38970
+Mercedes-Benz,G 580,Available,to order since April 2024,220,527.0,3085.0,4.7,116.0,5,555.0,822.0,180860
+Volkswagen,ID.3 Pro,Available,to order since June 2024,225,262.0,1815.0,7.6,59.0,5,385.0,159.0,35700
+Tesla,Model S 100D,Discontinued,(January 2017 - February 2019),300,317.0,2290.0,4.3,95.0,5,895.0,299.0,89650
+Tesla,Model Y RWD (CATL LFP),Discontinued,(November 2022 - October 2024),215,267.0,1984.0,6.9,57.5,5,971.0,209.0,44990
+Audi,e-tron GT RS,Discontinued,(May 2021 - February 2024),250,340.0,2420.0,3.3,85.0,4,451.0,476.0,119000
+Hyundai,IONIQ 5 Standard Range 2WD (MY21),Discontinued,(October 2021 - July 2024),185,292.0,1905.0,8.5,54.0,5,588.0,235.0,43445
+Hyundai,IONIQ 9 Long Range AWD,Available,to order from September 2025,305,348.0,2728.0,6.7,106.0,7,390.0,213.0,65000
+Volkswagen,ID.4 1st,Discontinued,(March 2021 - August 2021),255,302.0,2124.0,8.5,77.0,5,543.0,160.0,40800
+Nissan,Leaf e+,Discontinued,(March 2022 - May 2023),210,281.0,1756.0,6.9,59.0,5,420.0,166.0,34945
+Fiat,600e,Available,to order since December 2023,195,261.0,1595.0,9.0,50.8,5,360.0,169.0,32995
+Tesla,Model 3 Long Range AWD,Discontinued,(November 2020 - February 2022),290,248.0,1919.0,4.4,72.0,5,649.0,172.0,49990
+BMW,iX M60,Discontinued,(April 2022 - January 2025),300,351.0,2659.0,3.8,105.2,5,500.0,409.0,122775
+Genesis,GV60 Premium,Available,to order since June 2022,240,308.0,1975.0,7.8,74.0,5,432.0,225.0,53905
+Peugeot,e-2008 50 kWh,Available,to order since July 2024,165,281.0,1623.0,9.9,46.3,5,434.0,196.0,32300
+Vauxhall,Frontera 44 kWh,Available,to order since February 2025,150,293.0,1589.0,12.1,44.0,5,460.0,160.0,23995
+Citroen,e-Berlingo M 50 kWh,Available,to order since March 2024,145,345.0,1811.0,11.7,50.0,5,775.0,214.0,30990
+XPENG,G6 RWD Standard Range,Available,to order since June 2025,230,287.0,2100.0,6.9,66.0,5,571.0,174.0,39990
+Audi,e-tron GT quattro,Discontinued,(May 2021 - February 2024),260,327.0,2350.0,4.1,85.0,4,490.0,338.0,87800
+Leapmotor,C10,Available,to order since March 2025,215,325.0,2055.0,7.5,69.9,5,435.0,170.0,36500
+Vauxhall,Mokka Electric,Available,to order since November 2024,175,290.0,1615.0,9.0,50.8,5,310.0,190.0,33245
+Polestar,2 Long Range Dual Motor (MY26),Available,to order since April 2025,280,282.0,2183.0,4.5,79.0,5,448.0,190.0,53160
+Skoda,Elroq vRS,Available,to order from June 2025,280,282.0,2229.0,5.4,79.0,5,470.0,166.0,46560
+MG,MG5 EV Long Range,Discontinued,(July 2020 - June 2022),210,273.0,1625.0,7.7,57.4,5,464.0,138.0,28995
+Vauxhall,Corsa Electric 50 kWh,Available,to order since October 2023,180,257.0,1544.0,8.7,46.3,5,267.0,149.0,26895
+Mini,Countryman SE ALL4,Available,to order since February 2024,225,287.0,2075.0,5.6,64.6,5,460.0,210.0,47180
+Citroen,e-C3 Aircross,Available,to order since May 2025,150,293.0,1579.0,12.9,44.0,5,460.0,154.0,23095
+DS,N°8 AWD Long Range,Available,to order since February 2025,330,295.0,2364.0,5.4,97.2,5,620.0,192.0,63290
+Alfa,Romeo Junior Elettrica 54 kWh Veloce,Available,to order since June 2024,190,267.0,1635.0,6.0,50.8,5,400.0,223.0,42295
+Polestar,2 Long Range Single Motor (MY25),Discontinued,(September 2024 - April 2025),295,268.0,2084.0,6.2,79.0,5,448.0,166.0,48950
+Polestar,2 Standard Range Single Motor (MY24),Discontinued,(January 2023 - September 2024),250,268.0,2019.0,6.4,67.0,5,446.0,180.0,44950
+GWM,ORA 03 Pure+,Available,to order since January 2024,160,284.0,1615.0,8.3,45.4,5,228.0,200.0,31995
+Polestar,3 Long Range Single motor,Available,to order since June 2024,330,324.0,2480.0,7.8,107.0,5,516.0,212.0,69900
+Kia,EV6 Standard Range RWD,Available,to order since May 2025,215,279.0,1955.0,8.7,60.0,5,542.0,182.0,39235
+Smart,#3 Premium,Available,to order since May 2024,220,282.0,1885.0,5.8,62.0,5,385.0,185.0,40660
+BYD,ATTO 2,Available,to order from September 2025,150,301.0,1645.0,7.9,45.1,5,400.0,187.0,28000
+Skoda,Enyaq Coupe 85,Available,to order since January 2025,290,266.0,2140.0,6.7,77.0,5,570.0,159.0,46210
+Tesla,Model Y Performance,Discontinued,(October 2022 - February 2025),265,283.0,2072.0,3.8,75.0,5,971.0,226.0,59990
+Volvo,C40 Recharge Twin Motor (MY24),Discontinued,(December 2022 - March 2024),250,316.0,2185.0,4.7,79.0,5,450.0,214.0,53605
+Renault,Zoe R110 ZE40,Discontinued,(March 2018 - December 2019),155,265.0,1575.0,11.4,41.0,5,338.0,157.0,24320
+Toyota,bZ4X AWD,Available,to order since August 2022,215,298.0,2070.0,6.9,64.0,5,452.0,222.0,47810
+Peugeot,e-2008 SUV,Discontinued,(December 2021 - June 2023),165,281.0,1623.0,8.5,46.3,5,434.0,213.0,35150
+BMW,iX2 xDrive30,Available,to order since October 2023,240,270.0,2095.0,5.6,64.7,5,525.0,239.0,57445
+Vauxhall,Astra Electric,Available,to order since June 2023,195,261.0,1736.0,9.2,50.8,5,352.0,179.0,34955
+Mini,Cooper Electric E,Available,to order since March 2024,155,236.0,1615.0,7.3,36.6,4,200.0,194.0,30000
+Audi,Q4 Sportback e-tron 45,Available,to order since January 2024,270,285.0,2145.0,6.7,77.0,5,535.0,196.0,52810
+Lotus,Emeya,Available,to order since March 2024,325,304.0,2555.0,4.2,98.9,5,543.0,296.0,96255
+Renault,Scenic E-Tech 170hp Comfort Range,Available,to order since July 2024,210,286.0,1822.0,8.6,60.0,5,545.0,179.0,37495
+Citroen,e-C4 54 kWh,Available,to order since December 2024,200,254.0,1646.0,9.1,50.8,5,380.0,158.0,31505
+Hyundai,IONIQ Electric,Discontinued,(October 2016 - August 2019),115,243.0,1495.0,9.9,28.0,5,350.0,237.0,27250
+Porsche,Macan 4S Electric,Available,to order since July 2024,290,328.0,2420.0,4.1,95.0,5,624.0,260.0,75400
+Volvo,XC40 Recharge Pure Electric (MY23),Discontinued,(February 2022 - December 2022),205,327.0,2023.0,7.4,67.0,5,450.0,223.0,45750
+Kia,Soul EV 64 kWh,Discontinued,(September 2022 - May 2024),225,284.0,1757.0,7.9,64.0,5,315.0,174.0,39075
+Porsche,Macan Turbo Electric,Available,to order since January 2024,285,333.0,2480.0,3.3,95.0,5,564.0,333.0,95000
+Volvo,EX40 Single Motor ER (MY25),Discontinued,(April 2024 - April 2025),245,322.0,2075.0,7.3,79.0,5,441.0,195.0,47705
+KGM,Torres EVX,Available,to order since April 2024,230,313.0,1979.0,8.1,72.0,5,839.0,161.0,36995
+Tesla,Model X 100D,Discontinued,(January 2017 - February 2019),270,352.0,2533.0,4.9,95.0,7,491.0,339.0,91650
+Mercedes-Benz,EQA 250,Discontinued,(April 2021 - June 2022),220,302.0,2040.0,8.9,66.5,5,340.0,216.0,47510
+BMW,i4 eDrive35,Discontinued,(March 2023 - May 2024),265,253.0,2065.0,6.0,67.0,5,470.0,189.0,49995
+Porsche,Taycan Plus,Available,to order since February 2024,360,269.0,2245.0,4.8,97.0,5,491.0,253.0,90954
+Volkswagen,ID.3 1st,Discontinued,(September 2020 - April 2021),215,270.0,1794.0,7.3,58.0,5,385.0,167.0,35880
+Audi,e-tron GT S,Available,to order since August 2024,335,290.0,2385.0,3.4,97.0,4,482.0,322.0,107825
+Tesla,Model S P100D,Discontinued,(September 2016 - February 2019),295,322.0,2316.0,2.7,95.0,5,895.0,433.0,127750
+Audi,e-tron Sportback 55 quattro,Discontinued,(March 2021 - September 2022),235,368.0,2565.0,5.7,86.5,5,615.0,318.0,74635
+Skoda,Elroq 50,Available,to order since October 2024,190,274.0,1949.0,9.0,52.0,5,470.0,166.0,31510
+Tesla,Model X Dual Motor,Available,to order from December 2025,300,317.0,2415.0,3.9,95.0,7,608.0,350.0,105000
+Hyundai,IONIQ 9 Long Range RWD,Available,to order from September 2025,310,342.0,2612.0,9.4,106.0,7,426.0,197.0,61000
+Mercedes-Benz,EQB 300 4MATIC,Available,to order since July 2024,215,309.0,2165.0,8.0,66.5,7,495.0,257.0,55310
+Volkswagen,ID. Buzz SWB GTX,Available,to order since October 2024,205,385.0,2629.0,6.5,79.0,6,1121.0,329.0,67435
+Renault,Kangoo Crew Van ZE33,Discontinued,(July 2017 - November 2021),100,310.0,1630.0,22.4,31.0,5,1300.0,317.0,31680
+Porsche,Taycan Turbo S,Discontinued,(January 2020 - January 2023),245,342.0,2370.0,2.8,83.7,5,450.0,581.0,142400
+Mercedes-Benz,EQE 300,Discontinued,(June 2023 - May 2024),325,274.0,2405.0,7.3,89.0,5,430.0,212.0,68810
+Smart,#1 Premium,Available,to order since November 2023,205,302.0,1875.0,6.7,62.0,5,338.0,193.0,39660
+Skoda,Enyaq 60,Available,to order since January 2025,220,268.0,2002.0,8.1,59.0,5,585.0,177.0,39010
+Volvo,ES90 Twin Motor (MY26),Available,to order since March 2025,330,309.0,2628.0,5.5,102.0,5,468.0,251.0,82750
+Nissan,Leaf,Discontinued,(March 2011 - June 2013),80,275.0,1600.0,11.9,22.0,5,330.0,269.0,21490
+BMW,i3 94 Ah,Discontinued,(July 2016 - August 2017),100,272.0,1320.0,7.3,27.2,4,260.0,286.0,28570
+Lotus,Eletre R,Available,to order since November 2023,280,389.0,2725.0,2.9,109.0,5,657.0,433.0,121305
+Smart,#3 Brabus,Available,to order since May 2024,205,302.0,1985.0,3.7,62.0,5,385.0,227.0,46460
+BMW,i3 60 Ah,Discontinued,(September 2013 - February 2017),70,269.0,1270.0,7.2,18.8,4,260.0,398.0,27850
+Renault,Zoe R90 ZE40,Discontinued,(February 2017 - March 2018),155,265.0,1555.0,13.5,41.0,5,338.0,153.0,23770
+Peugeot,e-208,Discontinued,(February 2020 - December 2021),165,281.0,1530.0,8.1,46.3,5,265.0,165.0,27225
+Hyundai,IONIQ 5 Long Range 2WD (MY21),Discontinued,(October 2021 - May 2022),230,304.0,1985.0,7.4,70.0,5,588.0,197.0,45400
+Polestar,2 Standard Range Single Motor,Discontinued,(September 2021 - March 2022),215,284.0,2015.0,7.4,61.0,5,440.0,186.0,39900
+Volvo,EX40 Single Motor (MY25),Discontinued,(April 2024 - April 2025),215,312.0,2040.0,7.3,67.0,5,441.0,214.0,45955
+Polestar,2,Discontinued,(August 2020 - May 2021),240,313.0,2198.0,4.7,75.0,5,440.0,208.0,49900
+Genesis,GV70 Electrified Sport,Available,to order since October 2022,215,344.0,2310.0,4.2,74.0,5,528.0,303.0,65105
+Audi,Q8 e-tron 50 quattro,Discontinued,(December 2022 - November 2024),260,342.0,2585.0,6.0,89.0,5,631.0,272.0,70715
+Mercedes-Benz,EQC 400 4MATIC,Discontinued,(September 2019 - November 2020),230,348.0,2495.0,5.1,80.0,5,500.0,286.0,65720
+Tesla,Model X Plaid,Available,to order from December 2025,290,328.0,2539.0,2.7,95.0,7,608.0,414.0,120000
+Ford,Mustang Mach-E Premium RWD (MY24),Available,to order since July 2024,300,303.0,2161.0,5.9,91.0,5,619.0,198.0,59390
+Audi,Q6 e-tron Sportback performance,Available,to order since November 2024,315,301.0,2275.0,6.6,94.9,5,575.0,209.0,65975
+Honda,e Advance,Discontinued,(September 2020 - November 2023),105,271.0,1595.0,8.3,28.5,4,171.0,356.0,37395
+Fiat,500e Hatchback 24 kWh,Available,to order since April 2021,85,251.0,1255.0,9.0,21.3,4,185.0,294.0,24995
+BMW,i7 eDrive50,Available,to order since June 2023,325,313.0,2595.0,5.5,101.7,5,500.0,308.0,100205
+Hyundai,IONIQ 5 Long Range AWD (MY22),Discontinued,(June 2022 - July 2024),235,315.0,2120.0,5.1,74.0,5,551.0,215.0,50445
+Volvo,EX40 Twin Motor (MY25),Discontinued,(April 2024 - April 2025),235,336.0,2170.0,4.8,79.0,5,441.0,246.0,57805
+Mini,Cooper Electric SE,Available,to order since October 2024,180,273.0,1730.0,5.9,49.2,4,200.0,217.0,39000
+BMW,i5 eDrive40 Touring (MY25),Available,to order since April 2025,290,280.0,2255.0,6.1,81.2,5,570.0,241.0,69955
+Volkswagen,ID.3 Pro S,Discontinued,(August 2021 - March 2023),280,275.0,1935.0,7.9,77.0,4,385.0,170.0,47470
+Citroen,e-Berlingo M 50 kWh,Discontinued,(November 2021 - January 2024),130,356.0,1739.0,11.7,46.3,5,571.0,249.0,32315
+Mercedes-Benz,EQB 300 4MATIC,Discontinued,(February 2022 - November 2023),210,317.0,2175.0,8.0,66.5,7,495.0,263.0,55310
+Audi,Q6 e-tron,Available,to order since August 2024,245,309.0,2200.0,7.0,75.8,5,590.0,245.0,59975
+Audi,A6 Sportback e-tron quattro,Available,to order since September 2024,365,260.0,2360.0,4.7,94.9,5,529.0,206.0,75040
+Mazda,6e 68.8 kWh,Available,to order from February 2026,240,275.0,2028.0,7.6,66.0,5,526.0,158.0,38000
+BMW,iX M70 xDrive,Available,to order since January 2025,310,351.0,2655.0,3.8,108.9,5,500.0,368.0,114205
+BMW,i5 eDrive40 Saloon (MY25),Available,to order since April 2025,295,275.0,2195.0,6.0,81.2,5,490.0,230.0,67705
+Tesla,Model S 90D,Discontinued,(April 2016 - June 2017),280,305.0,2223.0,4.4,85.5,5,895.0,0.0,0
+BMW,i5 eDrive40 Touring,Discontinued,(February 2024 - April 2025),285,285.0,2255.0,6.1,81.2,5,570.0,245.0,69945
+Renault,5 E-Tech 40kWh 95hp,Available,to order from December 2025,155,258.0,1428.0,12.0,40.0,5,326.0,142.0,22000
+Citroen,e-C4,Available,to order since December 2024,175,265.0,1646.0,9.9,46.3,5,380.0,158.0,27650
+Audi,A6 Avant e-tron quattro,Available,to order since September 2024,345,275.0,2370.0,4.5,94.9,5,529.0,223.0,76840
+Polestar,2 Standard Range Single Motor (MY26),Available,to order since April 2025,250,268.0,2020.0,6.4,67.0,5,448.0,181.0,45160
+Kia,Soul EV,Discontinued,(October 2017 - April 2019),105,286.0,1580.0,11.2,30.0,5,281.0,257.0,26995
+Tesla,Model 3 Standard Range Plus (CATL LFP55),Discontinued,(November 2020 - December 2021),215,244.0,1825.0,5.6,52.5,5,649.0,191.0,40990
+Subaru,Solterra AWD,Available,to order since March 2023,200,320.0,2085.0,6.9,64.0,5,441.0,250.0,49995
+Audi,e-tron S,Discontinued,(October 2021 - September 2022),195,444.0,2730.0,4.5,86.5,5,660.0,454.0,88435
+Porsche,Taycan,Available,to order since February 2024,310,265.0,2165.0,4.8,82.3,5,491.0,279.0,86500
+Vauxhall,Combo Life Electric XL 50 kWh,Available,to order since March 2024,145,345.0,1881.0,11.3,50.0,7,1050.0,228.0,33080
+Renault,Zoe Q210,Discontinued,(March 2013 - January 2017),80,291.0,1503.0,13.5,23.3,5,338.0,181.0,14495
+Audi,e-tron GT quattro,Available,to order from July 2025,335,290.0,2355.0,4.0,97.0,4,482.0,267.0,89505
+Skoda,Enyaq Coupe vRS,Available,to order from June 2025,290,272.0,2239.0,5.4,79.0,5,570.0,185.0,53560
+Tesla,Model S P90D,Discontinued,(July 2015 - April 2016),255,335.0,2262.0,3.3,85.5,5,895.0,0.0,0
+Mini,Electric,Discontinued,(March 2020 - March 2021),110,263.0,1440.0,7.3,28.9,4,211.0,228.0,25100
+Volkswagen,ID.3 Pro Performance,Discontinued,(November 2020 - August 2021),215,270.0,1805.0,7.3,58.0,5,385.0,138.0,29740
+Peugeot,e-308,Available,to order since September 2023,185,275.0,1759.0,9.8,50.8,5,412.0,227.0,42025
+Mercedes-Benz,EQA 300 4MATIC,Available,to order since July 2024,215,309.0,2110.0,7.7,66.5,5,340.0,247.0,53010
+Skoda,Enyaq Coupe 85,Discontinued,(October 2023 - January 2025),285,270.0,2140.0,6.7,77.0,5,570.0,163.0,46440
+Alfa,Romeo Junior Elettrica 54 kWh,Available,to order since June 2024,195,261.0,1620.0,9.0,50.8,5,400.0,174.0,33895
+Volkswagen,e-Up!,Discontinued,(February 2020 - September 2021),125,258.0,1235.0,11.9,32.3,4,250.0,176.0,22055
+Audi,Q4 e-tron 45 quattro,Available,to order since January 2024,245,314.0,2235.0,6.6,77.0,5,520.0,215.0,52740
+Mazda,6e Long Range 80 kWh,Available,to order from February 2026,275,273.0,2028.0,7.8,75.0,5,526.0,153.0,42000
+Tesla,Model S 75,Discontinued,(May 2016 - May 2017),235,309.0,2102.0,4.6,72.5,5,895.0,238.0,55880
+Porsche,Taycan GTS,Discontinued,(February 2022 - February 2024),280,299.0,2370.0,3.7,83.7,5,491.0,394.0,110200
+Polestar,2 Long Range Performance (MY25),Discontinued,(September 2024 - April 2025),280,282.0,2180.0,4.2,79.0,5,448.0,207.0,57950
+Vauxhall,Vivaro-e Life M 75 kWh,Available,to order since June 2024,160,425.0,2211.0,14.2,68.0,9,603.0,314.0,50195
+Volvo,ES90 Twin Motor Performance (MY26),Available,to order since March 2025,330,309.0,2628.0,4.0,102.0,5,468.0,265.0,87350
+Peugeot,iOn,Discontinued,(January 2011 - April 2016),55,264.0,1140.0,15.9,14.5,4,166.0,386.0,21216
+Mitsubishi,i-MiEV,Discontinued,(January 2011 - November 2015),50,290.0,1185.0,15.9,14.5,4,166.0,481.0,24054
+Tesla,Model S 85,Discontinued,(August 2013 - February 2016),250,323.0,2175.0,5.6,80.8,5,895.0,0.0,0
+Audi,Q4 e-tron 50 quattro,Discontinued,(July 2021 - January 2024),240,319.0,2210.0,6.2,76.6,5,520.0,238.0,57010
+Genesis,G80 Electrified Luxury,Available,to order since June 2022,275,300.0,2325.0,4.9,82.5,5,354.0,254.0,69805
+Maxus,MIFA 9,Available,to order since February 2023,225,373.0,2385.0,9.2,84.0,7,521.0,290.0,65290
+Porsche,Taycan,Discontinued,(January 2023 - February 2024),260,273.0,2125.0,5.4,71.0,5,491.0,305.0,79200
+Citroen,e-Berlingo XL 50 kWh,Available,to order since March 2024,145,345.0,1881.0,11.7,50.0,7,1050.0,220.0,31890
+Toyota,PROACE Verso Medium 75 kWh,Available,to order since August 2024,160,425.0,2211.0,13.3,68.0,9,603.0,286.0,45769
+Jeep,Compass Electric 74 kWh,Available,to order from September 2025,230,322.0,2198.0,8.5,74.0,5,550.0,170.0,39200
+Tesla,Model X 75D,Discontinued,(October 2016 - September 2018),205,354.0,2427.0,5.2,72.5,7,491.0,387.0,79400
+Peugeot,iOn,Discontinued,(April 2016 - February 2019),55,264.0,1140.0,15.9,14.5,4,166.0,309.0,16995
+BMW,i3,Discontinued,(October 2017 - October 2018),100,272.0,1320.0,7.3,27.2,4,260.0,296.0,29570
+DS,3 Crossback E-Tense,Discontinued,(December 2021 - December 2022),165,281.0,1598.0,8.7,46.3,5,350.0,211.0,34770
+Ford,Mustang Mach-E ER AWD (MY23),Discontinued,(November 2022 - November 2023),275,331.0,2257.0,5.8,91.0,5,619.0,238.0,65405
+Volvo,EX90 Twin Motor Performance (MY24-26),Available,to order since December 2022,280,382.0,2762.0,4.9,107.0,7,347.0,357.0,99960
+BMW,i5 M60 xDrive Saloon,Discontinued,(May 2023 - April 2025),260,312.0,2380.0,3.8,81.2,5,490.0,376.0,97745
+Volvo,EX40 Single Motor ER (MY26),Available,to order since April 2025,245,322.0,2075.0,7.3,79.0,5,441.0,196.0,48010
+BYD,DOLPHIN 44.9 kWh Boost,Available,to order since September 2024,160,281.0,1700.0,8.0,44.9,5,345.0,170.0,27195
+Audi,SQ6 e-tron,Available,to order since May 2024,295,322.0,2425.0,4.3,94.9,5,578.0,315.0,92950
+Mini,Aceman E,Available,to order since June 2024,140,275.0,1720.0,7.9,38.5,5,300.0,227.0,31800
+Polestar,2 Long Range Performance (MY26),Available,to order since April 2025,280,282.0,2180.0,4.2,79.0,5,448.0,208.0,58160
+Audi,e-tron 55 quattro,Discontinued,(March 2019 - November 2019),225,384.0,2565.0,5.7,86.5,5,660.0,302.0,68060
+Tesla,Model S Long Range,Discontinued,(April 2019 - October 2020),325,292.0,2255.0,3.8,95.0,5,894.0,231.0,74980
+Porsche,Taycan Plus,Discontinued,(April 2021 - January 2023),295,284.0,2205.0,5.4,83.7,5,491.0,270.0,79549
+Fisker,Ocean Extreme,Discontinued,(March 2023 - June 2024),305,349.0,2526.0,3.9,106.5,5,476.0,190.0,57900
+Volvo,EX90 Twin Motor (MY24-26),Available,to order since December 2022,290,369.0,2754.0,5.9,107.0,7,347.0,309.0,89560
+Vauxhall,Astra Sports Tourer Electric,Available,to order since November 2023,190,267.0,1760.0,9.3,50.8,5,516.0,190.0,36155
+Audi,Q6 e-tron Sportback quattro,Available,to order since November 2024,310,306.0,2400.0,5.9,94.9,5,575.0,231.0,71475
+Citroen,e-C4 X 54 kWh,Available,to order since January 2025,205,248.0,1652.0,9.1,50.8,5,510.0,154.0,31505
+Volvo,EX40 Twin Motor (MY26),Available,to order since April 2025,235,336.0,2170.0,4.8,79.0,5,441.0,245.0,57660
+Volkswagen,ID.3 Pure Performance,Discontinued,(May 2021 - August 2021),170,265.0,1772.0,8.9,45.0,5,385.0,160.0,27120
+Volkswagen,ID.4 Pro,Discontinued,(February 2022 - November 2023),255,302.0,2123.0,10.4,77.0,5,543.0,175.0,44605
+DS,3 E-Tense,Available,to order since January 2023,185,275.0,1625.0,9.0,50.8,5,350.0,201.0,37200
+BMW,i7 M70 xDrive,Available,to order since May 2023,305,333.0,2770.0,3.7,101.7,5,500.0,535.0,163315
+Volkswagen,ID.4 Pro Performance 4MOTION,Available,to order since July 2024,270,285.0,2233.0,6.6,77.0,5,543.0,171.0,46080
+Lotus,Eletre S,Available,to order since November 2023,300,363.0,2595.0,4.5,109.0,5,657.0,353.0,105805
+Toyota,Proace City Verso Electric Medium 50 kWh,Available,to order since August 2024,145,345.0,1811.0,11.7,50.0,5,775.0,220.0,31849
+MG,Cyberster Trophy,Available,to order since April 2024,265,281.0,1960.0,5.0,74.4,2,249.0,208.0,54995
+Volkswagen,ID.7 GTX,Available,to order since August 2024,310,277.0,2325.0,5.4,86.0,5,532.0,200.0,61980
+Kia,EV4 Hatchback Standard Range,Available,to order from August 2025,210,262.0,1800.0,7.4,55.0,5,435.0,186.0,39000
+Hyundai,Kona Electric 64 kWh,Discontinued,(October 2018 - October 2019),240,267.0,1760.0,7.6,64.0,5,332.0,137.0,32845
+Volvo,EX30 Cross Country (MY26),Available,to order since March 2025,205,317.0,1960.0,3.7,65.0,5,325.0,229.0,46995
+Ford,e-Tourneo Custom L1 160 kW,Available,to order since November 2023,145,441.0,2557.0,9.0,64.0,8,672.0,420.0,60886
+SEAT,Mii Electric,Discontinued,(February 2020 - June 2021),130,248.0,1235.0,12.3,32.3,4,251.0,156.0,20300
+Fiat,500e Cabrio,Available,to order since November 2020,140,266.0,1405.0,9.0,37.3,4,185.0,221.0,30995
+Nissan,Ariya e-4ORCE 87kWh - 225 kW,Available,to order since August 2022,250,348.0,2259.0,5.7,87.0,5,415.0,203.0,50845
+Hyundai,IONIQ 5 Long Range AWD (MY21),Discontinued,(July 2021 - February 2022),225,311.0,2095.0,5.2,70.0,5,555.0,201.0,45145
+Volkswagen,ID.3 Pro S,Discontinued,(May 2023 - May 2024),280,275.0,1933.0,7.9,77.0,4,385.0,171.0,47990
+Mercedes-Benz,EQE SUV 350+,Available,to order since July 2024,295,325.0,2490.0,6.9,96.0,5,520.0,256.0,75495
+Mercedes-Benz,EQV 300 Long,Available,to order since July 2024,200,450.0,2625.0,12.1,90.0,7,1030.0,461.0,92255
+Mercedes-Benz,EQE AMG 53 4MATIC+,Available,to order since July 2024,280,324.0,2540.0,3.5,90.6,5,430.0,378.0,105860
+Alpine,A290 Electric 180 hp,Available,to order since February 2025,190,274.0,1554.0,7.4,52.0,5,326.0,176.0,33500
+Audi,Q4 e-tron 40,Available,to order since April 2025,200,295.0,2035.0,8.1,59.0,5,520.0,233.0,46610
+Peugeot,e-308 SW,Available,to order since January 2024,185,275.0,1791.0,10.0,50.8,5,608.0,223.0,41250
+Mercedes-Benz,EQS SUV 450 4MATIC,Available,to order since January 2024,325,363.0,2840.0,6.1,118.0,7,645.0,398.0,129470
+Nissan,e-NV200 Combi,Discontinued,(April 2014 - August 2018),65,338.0,1614.0,14.0,22.0,7,2000.0,375.0,24407
+DS,3 Crossback E-Tense,Discontinued,(January 2020 - December 2021),160,289.0,1598.0,8.7,46.3,5,350.0,197.0,31500
+Volkswagen,ID.3 Pro S,Discontinued,(November 2020 - August 2021),280,275.0,1934.0,7.9,77.0,4,385.0,139.0,38800
+Tesla,Model X Performance,Discontinued,(July 2019 - October 2020),265,358.0,2552.0,2.9,95.0,7,491.0,370.0,97980
+Mercedes-Benz,EQV 300,Discontinued,(November 2020 - February 2024),190,474.0,2635.0,12.1,90.0,7,1030.0,463.0,87995
+Kia,e-Niro 64 kWh,Discontinued,(April 2019 - July 2020),230,278.0,1812.0,7.8,64.0,5,451.0,143.0,32995
+Tesla,Model S Long Range Plus,Discontinued,(November 2020 - March 2021),345,284.0,2255.0,3.8,98.0,5,894.0,232.0,79980
+Vauxhall,Combo-e Life 50 kWh,Discontinued,(November 2021 - January 2024),130,356.0,1739.0,11.7,46.3,7,571.0,262.0,34085
+Maserati,Grecale Folgore,Available,to order since March 2024,245,388.0,2555.0,4.1,95.0,5,535.0,449.0,109905
+Toyota,Proace City Verso Electric Long 50 kWh,Available,to order since August 2024,145,345.0,1881.0,11.7,50.0,7,1050.0,228.0,33129
+Volvo,ES90 Single Motor (MY26),Available,to order since March 2025,300,293.0,2441.0,6.9,88.0,5,468.0,231.0,69150
+Renault,Zoe R240,Discontinued,(June 2015 - January 2017),90,259.0,1502.0,13.5,23.3,5,338.0,211.0,18945
+Skoda,Enyaq vRS,Available,to order from June 2025,285,277.0,2236.0,5.4,79.0,5,585.0,181.0,51660
+Volvo,XC40 P8 AWD Recharge (MY21),Discontinued,(February 2020 - February 2021),205,366.0,2188.0,4.9,75.0,5,450.0,244.0,49950
+Skoda,Enyaq iV 80x,Discontinued,(October 2021 - October 2023),265,291.0,2193.0,6.9,77.0,5,585.0,192.0,50805
+Mercedes-Benz,EQB 350 4MATIC,Discontinued,(February 2022 - November 2023),210,317.0,2175.0,6.2,66.5,7,495.0,271.0,56810
+Mercedes-Benz,EQS AMG 53 4MATIC+,Available,to order since April 2024,365,323.0,2700.0,3.4,118.0,5,620.0,443.0,161860
+Mercedes-Benz,EQE 500 4MATIC,Available,to order since July 2024,315,288.0,2490.0,4.7,90.6,5,430.0,256.0,80610
+Abarth,600e Scorpionissima,Available,to order since December 2024,170,299.0,1700.0,5.9,50.8,5,360.0,235.0,39875
+Hyundai,IONIQ 9 Performance AWD,Available,to order from September 2025,295,359.0,2744.0,5.2,106.0,7,390.0,237.0,70000
+Tesla,Model X P100D,Discontinued,(January 2017 - February 2019),260,365.0,2572.0,3.1,95.0,7,491.0,516.0,134150
+Genesis,GV60 Sport,Available,to order since June 2022,235,315.0,2170.0,5.5,74.0,5,432.0,248.0,58365
+Porsche,Taycan Turbo GT Weissach,Available,to order since March 2024,295,329.0,2295.0,2.2,97.0,2,451.0,632.0,186300
+Skoda,Enyaq 50,Discontinued,(July 2024 - January 2025),190,274.0,1976.0,9.1,52.0,5,585.0,195.0,36970
+Volkswagen,ID.5 Pro,Discontinued,(January 2022 - July 2022),265,291.0,2117.0,10.4,77.0,5,549.0,191.0,50550
+Citroen,e-C4 X,Discontinued,(February 2023 - January 2025),175,265.0,1659.0,9.7,46.3,5,510.0,183.0,31960
+Porsche,Taycan GTS,Available,to order since November 2024,330,294.0,2360.0,3.3,97.0,5,450.0,356.0,117500
+Kia,Soul EV,Discontinued,(September 2014 - October 2017),95,284.0,1565.0,11.2,27.0,5,281.0,268.0,25495
+Smart,#3 Pro+,Available,to order since May 2024,220,282.0,1855.0,5.8,62.0,5,385.0,173.0,37960
+Vauxhall,Combo Life Electric 50 kWh,Available,to order since March 2024,145,345.0,1811.0,11.3,50.0,5,775.0,222.0,32180
+Ford,Mustang Mach-E Premium AWD (MY24),Available,to order since July 2024,275,331.0,2245.0,4.6,91.0,5,619.0,238.0,65415
+Audi,Q4 Sportback e-tron 40,Available,to order since April 2025,210,281.0,2035.0,8.1,59.0,5,520.0,229.0,48110
+Tesla,Model X Long Range,Discontinued,(June 2019 - October 2020),275,345.0,2505.0,4.6,95.0,7,491.0,302.0,82980
+Volvo,XC40 Recharge Single Motor (MY24),Discontinued,(December 2022 - March 2024),210,314.0,2040.0,7.3,66.0,5,441.0,221.0,46505
+Ford,Mustang Mach-E Premium RWD (MY23.75),Discontinued,(December 2023 - July 2024),300,303.0,2160.0,7.0,91.0,5,619.0,199.0,59830
+Vauxhall,Mokka-e 54 kWh,Discontinued,(January 2024 - October 2024),180,282.0,1598.0,9.0,50.8,5,310.0,207.0,37260
+Porsche,Taycan 4S Plus,Available,to order since February 2024,350,277.0,2325.0,3.7,97.0,5,491.0,286.0,100196
+Audi,e-tron GT RS performance,Available,to order since August 2024,325,298.0,2395.0,2.5,97.0,4,427.0,440.0,142925
+Polestar,2 Standard Range Single Motor (MY25),Discontinued,(September 2024 - April 2025),250,268.0,2020.0,6.4,67.0,5,448.0,180.0,44950
+Mercedes-Benz,EQA 350 4MATIC,Discontinued,(December 2021 - November 2023),215,309.0,2105.0,6.0,66.5,5,340.0,254.0,54510
+Volvo,EX90 Single Motor (MY24-26),Available,to order since April 2025,285,351.0,2582.0,8.4,100.0,7,347.0,290.0,82660
+Porsche,Taycan 4S,Available,to order since February 2024,305,270.0,2245.0,3.7,82.3,5,491.0,314.0,95900
+Porsche,Taycan Turbo GT,Available,to order since March 2024,295,329.0,2365.0,2.3,97.0,5,410.0,632.0,186300
+Polestar,2 Long Range Dual Motor (MY25),Discontinued,(September 2024 - April 2025),280,282.0,2183.0,4.5,79.0,5,448.0,189.0,52950
+Volkswagen,e-Golf,Discontinued,(June 2014 - June 2016),75,273.0,1585.0,10.4,20.5,5,380.0,351.0,26345
+Volvo,XC40 Recharge Pure Electric (MY22),Discontinued,(February 2021 - February 2022),190,353.0,2030.0,7.4,67.0,5,450.0,254.0,48300
+Abarth,500e Hatchback,Available,to order since May 2023,140,270.0,1410.0,7.0,37.8,4,185.0,244.0,34195
+Porsche,Taycan Turbo S,Discontinued,(January 2023 - February 2024),270,310.0,2370.0,2.8,83.7,5,450.0,549.0,148300
+Skoda,Enyaq vRS,Discontinued,(October 2023 - January 2025),270,285.0,2251.0,5.5,77.0,5,585.0,197.0,53120
+Mercedes-Benz,EQS SUV Maybach 680,Available,to order since May 2024,305,387.0,3075.0,4.4,118.0,4,440.0,659.0,200860
+Audi,Q6 e-tron Sportback,Available,to order since November 2024,255,297.0,2200.0,7.0,75.8,5,575.0,245.0,62475
+Renault,4 E-Tech 40kWh 120hp,Available,to order from July 2025,150,267.0,1510.0,9.2,40.0,5,420.0,160.0,24000
+Citroen,C-Zero,Discontinued,(January 2011 - April 2016),55,264.0,1140.0,15.9,14.5,4,166.0,386.0,21216
+Mercedes-Benz,EQS 450+,Discontinued,(November 2021 - June 2023),395,273.0,2480.0,6.2,107.8,5,610.0,267.0,105610
+Mercedes-Benz,EQA 300 4MATIC,Discontinued,(December 2021 - November 2023),215,309.0,2105.0,7.7,66.5,5,340.0,247.0,53010
+Mercedes-Benz,EQA 250+,Discontinued,(June 2022 - November 2023),260,271.0,2045.0,8.6,70.5,5,340.0,191.0,49750
+ORA,Funky Cat First Edition,Discontinued,(November 2022 - December 2023),160,284.0,1615.0,8.3,45.4,5,228.0,200.0,31995
+Maserati,GranTurismo Folgore,Available,to order since February 2024,260,319.0,2335.0,2.7,83.0,4,270.0,692.0,179950
+Volkswagen,ID.5 GTX,Available,to order since November 2023,265,291.0,2242.0,5.5,77.0,5,549.0,209.0,55365
+GWM,ORA 03 Pro+,Available,to order since January 2024,210,282.0,1615.0,8.2,59.3,5,228.0,167.0,34995
+Audi,e-tron GT RS,Available,to order since August 2024,325,298.0,2395.0,2.8,97.0,4,427.0,389.0,126425
+Peugeot,e-Traveller Standard 75 kWh,Available,to order since June 2024,160,425.0,2211.0,14.2,68.0,9,603.0,306.0,48995
+Volvo,EX40 Single Motor (MY26),Available,to order since April 2025,215,312.0,2040.0,7.3,67.0,5,441.0,215.0,46260
+Renault,Zoe Q90 ZE40,Discontinued,(March 2018 - February 2019),155,265.0,1548.0,13.5,41.0,5,338.0,166.0,25770
+Porsche,Taycan 4S Plus,Discontinued,(April 2020 - January 2023),285,294.0,2295.0,4.0,83.7,5,491.0,317.0,90406
+CUPRA,Born 58 kWh e-Boost,Discontinued,(April 2022 - July 2024),215,270.0,1824.0,6.6,58.0,5,385.0,163.0,35085
+Volvo,XC40 Recharge Twin Pure Electric (MY23),Discontinued,(February 2022 - December 2022),215,349.0,2188.0,4.9,75.0,5,450.0,265.0,57000
+Mercedes-Benz,EQE 350,Discontinued,(June 2023 - May 2024),320,278.0,2405.0,6.4,89.0,5,430.0,242.0,77345
+Ford,Mustang Mach-E Premium AWD (MY23.75),Discontinued,(December 2023 - July 2024),275,331.0,2257.0,5.8,91.0,5,619.0,238.0,65405
+Mercedes-Benz,EQE SUV 500 4MATIC,Available,to order since July 2024,285,337.0,2610.0,4.9,96.0,5,520.0,318.0,90505
+Peugeot,e-5008 73 kWh Dual Motor,Available,to order from July 2025,225,324.0,2300.0,7.0,73.0,7,348.0,222.0,50000
+Audi,S6 Avant e-tron,Available,to order since September 2024,330,288.0,2410.0,3.9,94.9,5,529.0,301.0,99340
+Ford,Mustang Mach-E Select SR RWD (MY24),Available,to order since July 2024,235,309.0,2166.0,6.2,72.6,5,619.0,216.0,50840
+Ford,Mustang Mach-E ER AWD (MY21),Discontinued,(April 2021 - April 2022),265,332.0,2257.0,5.8,88.0,5,619.0,220.0,58230
+Audi,Q8 e-tron Sportback 50 quattro,Discontinued,(December 2022 - November 2024),275,324.0,2585.0,6.0,89.0,5,590.0,266.0,73215
+Peugeot,e-208 51 kWh,Discontinued,(November 2022 - April 2023),190,253.0,1530.0,8.2,48.1,5,265.0,184.0,34955
+Mercedes-Benz,EQS SUV 580 4MATIC,Available,to order since January 2024,325,363.0,2845.0,4.7,118.0,7,645.0,429.0,139470
+Porsche,Taycan Turbo S,Available,to order since February 2024,325,298.0,2370.0,2.4,97.0,5,450.0,497.0,161400
+Volvo,C40 Recharge Single Motor (MY24),Discontinued,(December 2022 - March 2024),220,300.0,2065.0,7.3,66.0,5,450.0,220.0,48355
+Tesla,Model S P85D,Discontinued,(November 2014 - February 2016),240,336.0,2262.0,3.3,80.8,5,895.0,0.0,0
+Mercedes-Benz,EQE 300,Discontinued,(July 2022 - September 2023),320,278.0,2385.0,7.3,89.0,5,430.0,232.0,74345
+Toyota,PROACE Verso Long 75 kWh,Available,to order since August 2024,160,425.0,2240.0,13.3,68.0,9,989.0,290.0,46477
+Porsche,Taycan GTS Sport Turismo,Available,to order since November 2024,315,308.0,2385.0,3.3,97.0,5,489.0,376.0,118300
+Volvo,EC40 Single Motor ER (MY26),Available,to order since April 2025,260,304.0,2095.0,7.3,79.0,5,435.0,208.0,54160
+Tesla,Model X Ludicrous Performance,Discontinued,(March 2019 - May 2019),260,365.0,2572.0,3.0,95.0,7,491.0,390.0,101350
+Kia,e-Niro 39 kWh,Discontinued,(January 2021 - April 2022),145,270.0,1667.0,9.8,39.2,5,451.0,227.0,32895
+Volkswagen,ID.4 Pure Performance,Discontinued,(June 2021 - November 2023),175,297.0,1965.0,9.0,52.0,5,543.0,230.0,40275
+Volkswagen,ID.5 Pro Performance,Discontinued,(January 2022 - July 2022),265,291.0,2117.0,8.4,77.0,5,549.0,196.0,51940
+Genesis,GV60 Sport Plus,Available,to order since June 2022,225,329.0,2220.0,4.0,74.0,5,432.0,300.0,67505
+Ford,Mustang Mach-E ER AWD (MY22),Discontinued,(April 2022 - November 2022),275,331.0,2257.0,5.8,91.0,5,619.0,237.0,65080
+Porsche,Taycan Turbo,Available,to order since February 2024,330,294.0,2365.0,2.7,97.0,5,450.0,406.0,134100
+Volvo,EX40 Twin Motor Performance (MY25),Discontinued,(July 2024 - April 2025),235,336.0,2170.0,4.6,79.0,5,441.0,253.0,59555
+Audi,A6 Sportback e-tron,Available,to order since September 2024,305,249.0,2175.0,6.0,75.8,5,529.0,205.0,62540
+BMW,i5 M60 xDrive Touring (MY25),Available,to order since April 2025,260,312.0,2425.0,3.9,81.2,5,570.0,385.0,100005
+Tesla,Model 3 Performance,Discontinued,(June 2019 - October 2020),275,267.0,1931.0,3.5,73.5,5,542.0,205.0,56490
+Tesla,Model S Standard Range,Discontinued,(June 2019 - July 2019),260,279.0,2183.0,4.2,72.5,5,894.0,279.0,72550
+Tesla,Model S Performance,Discontinued,(November 2020 - March 2021),330,297.0,2307.0,2.6,98.0,5,894.0,288.0,94980
+Hyundai,IONIQ 5 Project 45 (MY21),Discontinued,(July 2021 - October 2021),225,311.0,2095.0,5.2,70.0,5,555.0,213.0,48000
+Volvo,XC40 Recharge Twin Pure Electric (MY22),Discontinued,(February 2021 - February 2022),205,366.0,2188.0,4.9,75.0,5,450.0,244.0,49950
+Audi,SQ8 e-tron,Discontinued,(May 2023 - November 2024),285,372.0,2725.0,4.5,106.0,5,631.0,347.0,98815
+Smart,#1 Pro,Available,to order since January 2024,155,303.0,1855.0,6.7,47.0,5,338.0,213.0,32960
+Lotus,Emeya R,Available,to order since March 2024,290,341.0,2650.0,2.8,98.9,5,543.0,453.0,131255
+Peugeot,e-Rifter Standard 50 kWh,Available,to order since July 2024,145,345.0,1830.0,11.7,50.0,5,775.0,222.0,32230
+Volkswagen,ID.5 Pure,Available,to order since June 2024,195,267.0,1966.0,8.9,52.0,5,549.0,211.0,41080
+Volvo,EC40 Twin Motor (MY26),Available,to order since April 2025,250,316.0,2185.0,4.8,79.0,5,435.0,231.0,57660
+Smart,EQ forfour,Discontinued,(April 2018 - September 2019),55,304.0,1200.0,12.7,16.7,4,185.0,331.0,18190
+Kia,Soul EV 64 kWh,Discontinued,(September 2021 - September 2022),225,284.0,1757.0,7.9,64.0,5,315.0,156.0,34995
+Tesla,Model X Long Range Plus,Discontinued,(November 2020 - March 2021),300,327.0,2505.0,4.6,98.0,7,491.0,293.0,87980
+Mercedes-Benz,eVito Tourer L2 90 kWh,Discontinued,(December 2020 - December 2023),190,474.0,2530.0,12.0,90.0,9,990.0,402.0,76368
+Audi,S6 Sportback e-tron,Available,to order since September 2024,345,275.0,2400.0,3.9,94.9,5,529.0,283.0,97540
+Mitsubishi,i-MiEV,Discontinued,(November 2015 - July 2018),55,264.0,1160.0,15.9,14.5,4,166.0,437.0,24054
+Audi,e-tron Sportback 55 quattro,Discontinued,(April 2020 - March 2021),235,368.0,2555.0,5.7,86.5,5,615.0,340.0,79900
+Audi,e-tron 55 quattro,Discontinued,(December 2019 - March 2021),225,384.0,2595.0,5.7,86.5,5,660.0,318.0,71500
+Tesla,Model Y RWD (BYD LFP),Discontinued,(November 2022 - October 2024),215,267.0,1992.0,6.9,57.5,5,971.0,209.0,44990
+Hyundai,Kona Electric 39 kWh,Discontinued,(June 2020 - April 2021),150,261.0,1610.0,9.9,39.2,5,361.0,204.0,30650
+Mazda,MX-30,Discontinued,(March 2021 - July 2022),105,286.0,1720.0,9.7,30.0,5,366.0,278.0,29150
+Ford,Mustang Mach-E SR RWD (MY21),Discontinued,(April 2021 - April 2022),225,302.0,2044.0,6.9,68.0,5,619.0,189.0,42530
+SsangYong,Korando e-Motion,Discontinued,(February 2022 - May 2022),180,311.0,1840.0,8.5,56.0,5,551.0,178.0,31995
+Mercedes-Benz,EQE SUV AMG 53 4MATIC+,Available,to order since May 2023,260,348.0,2690.0,3.5,90.6,5,520.0,442.0,114995
+Volkswagen,ID.4 GTX,Discontinued,(July 2022 - November 2023),245,314.0,2239.0,6.3,77.0,5,543.0,216.0,52865
+Volvo,EC40 Twin Motor (MY25),Discontinued,(April 2024 - April 2025),250,316.0,2185.0,4.8,79.0,5,435.0,231.0,57805
+Citroen,e-SpaceTourer M 75 kWh,Available,to order since May 2024,160,425.0,2211.0,14.2,68.0,9,603.0,272.0,43535
+Audi,SQ6 e-tron Sportback,Available,to order since November 2024,305,311.0,2425.0,4.3,94.9,5,575.0,313.0,95450
+Volvo,EX40 Twin Motor Performance (MY26),Available,to order since April 2025,235,336.0,2170.0,4.6,79.0,5,441.0,254.0,59610
+Tesla,Model X 90D,Discontinued,(October 2016 - June 2017),245,349.0,2464.0,5.0,85.5,7,491.0,0.0,0
+Volkswagen,ID.3 Pure Performance,Discontinued,(August 2021 - January 2022),170,265.0,1781.0,8.9,45.0,5,385.0,166.0,28135
+Mercedes-Benz,EQE SUV 500 4MATIC,Discontinued,(February 2023 - January 2024),270,336.0,2560.0,4.9,90.6,5,520.0,403.0,108760
+Audi,Q4 Sportback e-tron 45 quattro,Available,to order since January 2024,255,302.0,2235.0,6.6,77.0,5,535.0,213.0,54240
+Peugeot,e-Traveller Long 75 kWh,Available,to order since June 2024,160,425.0,2240.0,14.2,68.0,9,989.0,312.0,49895
+Skoda,Enyaq Coupe 85x,Available,to order since January 2025,285,270.0,2234.0,6.7,77.0,5,570.0,172.0,49160
+Kia,EV4 Sedan Standard Range,Available,to order from August 2025,220,250.0,1800.0,7.4,55.0,5,490.0,177.0,39000
+Polestar,2 Standard Range Single Motor (MY23),Discontinued,(March 2022 - October 2022),235,285.0,2013.0,7.4,67.0,5,440.0,184.0,43150
+Porsche,Taycan Turbo Cross Turismo,Available,to order since February 2024,305,318.0,2395.0,2.8,97.0,5,489.0,443.0,135200
+Ford,Mustang Mach-E GT (MY24),Available,to order since July 2024,265,343.0,2343.0,3.8,91.0,5,619.0,281.0,74550
+Nissan,Ariya e-4ORCE 87kWh - 320 kW Nismo,Available,to order since October 2024,240,363.0,2277.0,5.0,87.0,5,415.0,236.0,56620
+Tesla,Model X Performance,Discontinued,(November 2020 - March 2021),290,338.0,2552.0,2.9,98.0,7,491.0,355.0,102980
+Vauxhall,Vivaro-e Life M 50 kWh,Discontinued,(January 2022 - January 2024),115,403.0,1969.0,12.1,46.3,9,491.0,372.0,42735
+Vauxhall,Vivaro-e Life L 50 kWh,Discontinued,(November 2020 - January 2024),110,421.0,1989.0,12.1,46.3,9,491.0,396.0,43575
+BMW,i5 M60 xDrive Touring,Discontinued,(February 2024 - April 2025),260,312.0,2425.0,3.9,81.2,5,570.0,385.0,99995
+Lotus,Emeya S,Available,to order since March 2024,325,304.0,2555.0,4.2,98.9,5,543.0,335.0,108755
+Maserati,GranCabrio Folgore,Available,to order since October 2024,245,339.0,2415.0,2.8,83.0,4,151.0,758.0,185610
+Mini,Aceman SE,Available,to order since October 2024,170,289.0,1825.0,6.4,49.2,5,300.0,240.0,40800
+Skywell,BE11 Standard Range,Available,to order since July 2024,205,332.0,1880.0,9.6,68.0,5,467.0,180.0,36995
+Smart,EQ fortwo coupe,Discontinued,(April 2018 - September 2019),60,278.0,1085.0,11.5,16.7,2,260.0,295.0,17695
+Tesla,Model X Long Range,Discontinued,(March 2019 - May 2019),270,352.0,2533.0,4.9,95.0,7,491.0,305.0,82350
+Mercedes-Benz,EQE 350+,Discontinued,(April 2022 - July 2022),325,279.0,2355.0,6.4,90.6,5,430.0,235.0,76450
+Porsche,Taycan Sport Turismo,Discontinued,(March 2022 - February 2024),235,302.0,2155.0,5.4,71.0,5,530.0,341.0,80200
+Mercedes-Benz,EQE 350,Discontinued,(November 2022 - September 2023),315,283.0,2385.0,6.4,89.0,5,430.0,246.0,77345
+Ford,Mustang Mach-E GT (MY23.75),Discontinued,(December 2023 - July 2024),265,343.0,2348.0,3.7,91.0,5,619.0,281.0,74540
+Tesla,Model S 85D,Discontinued,(April 2015 - February 2016),260,311.0,2184.0,4.4,80.8,5,895.0,0.0,0
+Renault,Zoe Q90 ZE40,Discontinued,(February 2017 - March 2018),150,273.0,1555.0,13.5,41.0,5,338.0,163.0,24520
+Smart,ForFour Electric Drive,Discontinued,(March 2017 - April 2018),55,304.0,1200.0,12.7,16.7,4,185.0,308.0,16915
+Smart,EQ fortwo cabrio,Discontinued,(January 2020 - April 2023),60,278.0,1125.0,11.9,16.7,2,260.0,411.0,24645
+Ford,Mustang Mach-E ER RWD (MY21),Discontinued,(April 2021 - April 2022),290,303.0,2160.0,7.0,88.0,5,619.0,164.0,47580
+Audi,Q4 Sportback e-tron 35,Discontinued,(September 2021 - November 2022),185,281.0,1970.0,9.0,52.0,5,535.0,250.0,46190
+Volvo,C40 Recharge Twin Pure Electric (MY22),Discontinued,(April 2021 - December 2022),225,333.0,2185.0,4.7,75.0,5,450.0,259.0,58350
+Porsche,Taycan 4S,Discontinued,(January 2023 - February 2024),255,278.0,2215.0,4.0,71.0,5,491.0,356.0,90700
+Porsche,Taycan Turbo,Discontinued,(January 2023 - February 2024),275,304.0,2380.0,3.2,83.7,5,450.0,457.0,125800
+Audi,Q4 Sportback e-tron 55 quattro,Available,to order since January 2024,255,302.0,2235.0,5.4,77.0,5,535.0,232.0,59190
+Skoda,Enyaq Coupe vRS,Discontinued,(October 2023 - January 2025),275,280.0,2258.0,5.5,77.0,5,570.0,199.0,54820
+BMW,i5 M60 xDrive Saloon (MY25),Available,to order since April 2025,265,306.0,2370.0,3.8,81.2,5,490.0,369.0,97755
+Kia,Soul EV 64 kWh,Discontinued,(February 2020 - September 2021),225,284.0,1757.0,7.9,64.0,5,315.0,167.0,37545
+Lightyear,0,Discontinued,(November 2022 - January 2023),340,176.0,1575.0,10.0,60.0,5,640.0,779.0,265000
+Skoda,CITIGOe iV,Discontinued,(February 2020 - July 2020),130,248.0,1235.0,12.3,32.3,4,250.0,134.0,17455
+Vauxhall,Vivaro-e Life Combi L 50 kWh,Discontinued,(January 2022 - January 2024),110,421.0,1989.0,12.1,46.3,9,912.0,344.0,37835
+Ford,Mustang Mach-E ER RWD (MY22),Discontinued,(April 2022 - November 2022),300,303.0,2160.0,7.0,91.0,5,619.0,187.0,56080
+Toyota,Proace City Verso Electric Medium 50 kWh,Discontinued,(February 2024 - August 2024),130,356.0,1739.0,11.2,46.3,5,597.0,262.0,34113
+Smart,#3 Pro,Available,to order since May 2024,165,285.0,1855.0,5.9,47.0,5,385.0,206.0,33960
+Porsche,Taycan Sport Turismo,Available,to order since February 2024,285,289.0,2190.0,4.8,82.3,5,530.0,306.0,87300
+Volvo,EC40 Single Motor ER (MY25),Discontinued,(April 2024 - April 2025),260,304.0,2095.0,7.3,79.0,5,435.0,209.0,54305
+Smart,#1 Pure,Available,to order since May 2025,155,303.0,1855.0,6.7,47.0,5,338.0,193.0,29960
+Citroen,e-C4 X,Available,to order since January 2025,180,257.0,1659.0,9.9,46.3,5,510.0,160.0,28715
+Tesla,Model S 70D,Discontinued,(April 2015 - April 2016),215,309.0,2156.0,5.4,66.5,5,895.0,0.0,0
+Porsche,Taycan Turbo,Discontinued,(January 2020 - January 2023),255,328.0,2380.0,3.2,83.7,5,450.0,470.0,119900
+Skoda,Enyaq Coupe iV vRS,Discontinued,(June 2022 - October 2023),265,291.0,2253.0,6.5,77.0,5,575.0,205.0,54370
+Ford,Mustang Mach-E SR RWD (MY23),Discontinued,(November 2022 - November 2023),235,298.0,2044.0,6.9,70.0,5,619.0,216.0,50830
+Audi,Q8 e-tron Sportback 55 quattro,Discontinued,(December 2022 - November 2024),325,326.0,2585.0,5.6,106.0,5,590.0,256.0,83215
+Porsche,Taycan 4S Cross Turismo,Available,to order since February 2024,315,308.0,2355.0,3.8,97.0,5,530.0,319.0,100400
+Ford,Mustang Mach-E Rally (MY24),Available,to order since July 2024,255,357.0,2343.0,3.9,91.0,5,619.0,301.0,76800
+Smart,ForTwo Electric Drive,Discontinued,(March 2017 - April 2018),60,278.0,1085.0,11.5,16.7,2,260.0,274.0,16420
+Tesla,Model X Ludicrous Performance,Discontinued,(June 2019 - July 2019),275,345.0,2572.0,2.9,95.0,7,491.0,369.0,101350
+Volkswagen,ID.5 GTX,Discontinued,(January 2022 - July 2022),250,308.0,2242.0,6.3,77.0,5,549.0,235.0,58640
+Audi,e-tron S Sportback,Discontinued,(October 2021 - September 2022),205,422.0,2730.0,4.5,86.5,5,615.0,440.0,90235
+Ford,Mustang Mach-E GT (MY22),Discontinued,(April 2022 - November 2022),265,343.0,2348.0,4.4,91.0,5,619.0,275.0,72830
+Jeep,Avenger Electric 1st Edition,Discontinued,(March 2023 - April 2023),190,267.0,1611.0,9.0,50.8,5,355.0,192.0,36500
+Porsche,Taycan Turbo S Sport Turismo,Available,to order since February 2024,315,308.0,2395.0,2.4,97.0,5,489.0,515.0,162100
+Skywell,BE11 Long Range,Available,to order since July 2024,240,338.0,1930.0,9.6,81.0,5,467.0,167.0,39995
+Tesla,Model S Performance,Discontinued,(April 2019 - October 2020),320,297.0,2307.0,2.6,95.0,5,894.0,281.0,89980
+Vauxhall,Mokka-e,Discontinued,(April 2021 - December 2021),155,299.0,1598.0,9.0,46.3,5,310.0,197.0,30540
+Toyota,Proace City Verso Electric Long 50 kWh,Discontinued,(February 2024 - August 2024),130,356.0,1813.0,11.2,46.3,7,850.0,262.0,34113
+Citroen,e-C4 54 kWh,Discontinued,(July 2024 - December 2024),205,248.0,1636.0,9.2,50.8,5,380.0,175.0,35800
+Porsche,Taycan 4S Plus Sport Turismo,Available,to order since February 2024,315,308.0,2350.0,3.7,97.0,5,530.0,321.0,100996
+DS,N°8 FWD,Available,to order since February 2025,260,283.0,2207.0,7.7,73.7,5,620.0,195.0,50790
+Volvo,EC40 Twin Motor Performance (MY26),Available,to order since April 2025,250,316.0,2185.0,4.6,79.0,5,435.0,238.0,59610
+Tesla,Model S 90D,Discontinued,(April 2015 - April 2016),275,311.0,2184.0,4.4,85.5,5,895.0,0.0,0
+Porsche,Taycan 4 Cross Turismo,Discontinued,(July 2021 - January 2023),260,322.0,2320.0,5.1,83.7,5,530.0,325.0,84500
+Citroen,e-Berlingo XL 50 kWh,Discontinued,(November 2021 - January 2024),125,370.0,1813.0,11.7,46.3,7,806.0,267.0,33315
+Skoda,Enyaq Coupe iV 80,Discontinued,(January 2023 - October 2023),275,280.0,2119.0,8.7,77.0,5,575.0,163.0,44825
+Fisker,Ocean One,Discontinued,(March 2023 - December 2023),330,323.0,2434.0,3.9,106.5,5,476.0,184.0,60880
+Mercedes-Benz,EQV 300 Extra-Long,Available,to order since July 2024,195,462.0,2735.0,12.2,90.0,7,1410.0,482.0,93955
+Ford,Mustang Mach-E SR AWD (MY21),Discontinued,(April 2021 - April 2022),210,324.0,2138.0,6.3,68.0,5,619.0,242.0,50850
+Mercedes-Benz,eVito Tourer L3 90 kWh,Discontinued,(December 2020 - December 2023),190,474.0,2555.0,12.0,90.0,9,1390.0,441.0,83850
+Ford,Mustang Mach-E ER RWD (MY23),Discontinued,(November 2022 - November 2023),300,303.0,2160.0,7.0,91.0,5,619.0,198.0,59380
+Polestar,2 Long Range Performance (MY23),Discontinued,(August 2022 - January 2023),240,313.0,2188.0,4.4,75.0,5,440.0,227.0,54550
+Mercedes-Benz,EQE AMG 53 4MATIC+,Discontinued,(June 2023 - May 2024),280,324.0,2540.0,3.5,90.6,5,430.0,410.0,114750
+Ford,e-Tourneo Custom L2 160 kW,Available,to order since November 2023,145,441.0,2602.0,9.0,64.0,8,672.0,426.0,61727
+Audi,e-tron Sportback 50 quattro,Discontinued,(July 2020 - September 2021),180,359.0,2445.0,6.8,64.7,5,615.0,384.0,69100
+Ford,Mustang Mach-E SR AWD (MY22),Discontinued,(April 2022 - September 2022),215,326.0,2138.0,6.3,70.0,5,619.0,279.0,60080
+Mercedes-Benz,EQS 450+,Discontinued,(June 2023 - November 2023),395,274.0,2515.0,6.1,108.4,5,620.0,267.0,105610
+Ford,Mustang Mach-E Select SR RWD (MY23.75),Discontinued,(November 2023 - July 2024),235,309.0,2179.0,7.3,72.6,5,619.0,216.0,50830
+Porsche,Taycan Plus Sport Turismo,Available,to order since February 2024,330,294.0,2270.0,4.8,97.0,5,530.0,278.0,91754
+Peugeot,e-Rifter Long 50 kWh,Available,to order since July 2024,140,357.0,1901.0,11.7,50.0,7,1050.0,237.0,33130
+Tesla,Model S 70,Discontinued,(April 2015 - April 2016),210,317.0,2074.0,5.8,66.5,5,895.0,0.0,0
+Tesla,Model S P90DL,Discontinued,(July 2015 - April 2016),250,342.0,2262.0,3.0,85.5,5,895.0,0.0,0
+Citroen,C-Zero,Discontinued,(April 2016 - February 2020),55,264.0,1140.0,15.9,14.5,4,166.0,319.0,17520
+Audi,e-tron S,Discontinued,(October 2020 - September 2021),200,433.0,2695.0,4.5,86.5,5,660.0,435.0,87000
+Volkswagen,ID.4 GTX,Discontinued,(July 2021 - June 2022),245,314.0,2224.0,6.2,77.0,5,543.0,200.0,49025
+Vauxhall,Vivaro-e Life Combi M 50 kWh,Discontinued,(January 2022 - January 2024),115,403.0,1969.0,12.1,46.3,9,507.0,322.0,36995
+Mercedes-Benz,EQS SUV 450 4MATIC,Discontinued,(March 2023 - December 2023),300,361.0,2805.0,6.0,108.4,7,645.0,432.0,129470
+ORA,Funky Cat First Edition+,Discontinued,(October 2023 - December 2023),210,282.0,1615.0,8.2,59.3,5,228.0,161.0,33795
+Citroen,e-SpaceTourer XL 75 kWh,Available,to order since May 2024,160,425.0,2240.0,14.2,68.0,9,989.0,278.0,44435
+Ford,e-Tourneo Courier,Available,to order since April 2025,125,349.0,1650.0,11.0,43.6,5,491.0,270.0,33690
+Skoda,Enyaq iV vRS,Discontinued,(June 2023 - October 2023),260,296.0,2258.0,6.2,77.0,5,585.0,203.0,52670
+Audi,Q4 Sportback e-tron 50 quattro,Discontinued,(September 2021 - January 2024),250,306.0,2215.0,6.2,76.6,5,535.0,234.0,58510
+Mercedes-Benz,EQS AMG 53 4MATIC+,Discontinued,(February 2022 - June 2023),335,322.0,2655.0,3.4,107.8,5,610.0,483.0,161860
+Vauxhall,Combo-e Life XL 50 kWh,Discontinued,(November 2021 - January 2024),125,370.0,1813.0,11.7,46.3,7,806.0,277.0,34685
+Porsche,Taycan 4S Sport Turismo,Discontinued,(March 2022 - February 2024),230,309.0,2245.0,4.0,71.0,5,530.0,399.0,91700
+Volvo,C40 Recharge Pure Electric (MY23),Discontinued,(February 2022 - December 2022),205,327.0,2045.0,7.4,67.0,5,450.0,230.0,47100
+Volkswagen,ID.5 Pro Performance,Discontinued,(July 2022 - November 2023),265,291.0,2118.0,8.4,77.0,5,549.0,197.0,52185
+Porsche,Taycan 4S Cross Turismo,Discontinued,(January 2023 - February 2024),270,310.0,2320.0,4.1,83.7,5,530.0,353.0,95200
+Porsche,Taycan 4 Cross Turismo,Available,to order since February 2024,315,308.0,2355.0,4.7,97.0,5,530.0,307.0,96800
+Porsche,Taycan Turbo S Cross Turismo,Available,to order since February 2024,300,323.0,2400.0,2.5,97.0,5,489.0,542.0,162500
+Citroen,e-SpaceTourer XL 50 kWh,Available,to order since May 2024,110,421.0,2056.0,13.3,46.3,9,989.0,355.0,39035
+Tesla,Model S P90D,Discontinued,(April 2016 - November 2016),250,342.0,2271.0,3.3,85.5,5,895.0,0.0,0
+BMW,i3s,Discontinued,(October 2017 - October 2018),100,272.0,1340.0,6.9,27.2,4,260.0,325.0,32475
+Porsche,Taycan GTS Sport Turismo,Discontinued,(February 2022 - February 2024),265,316.0,2385.0,3.7,83.7,5,530.0,420.0,111200
+Skoda,Enyaq Coupe iV 80x,Discontinued,(January 2023 - October 2023),270,285.0,2214.0,7.0,77.0,5,575.0,194.0,52505
+Fisker,Ocean Ultra,Discontinued,(March 2023 - June 2024),310,344.0,2526.0,4.2,106.5,5,476.0,164.0,50900
+Abarth,500e Scorpionissima,Discontinued,(February 2023 - April 2023),140,270.0,1410.0,7.0,37.8,4,185.0,276.0,38695
+Volkswagen,ID.5 GTX,Discontinued,(July 2022 - November 2023),250,308.0,2243.0,6.3,77.0,5,549.0,226.0,56545
+Porsche,Taycan Plus,Discontinued,(January 2023 - February 2024),300,279.0,2205.0,5.4,83.7,5,491.0,279.0,83654
+Porsche,Taycan 4 Cross Turismo,Discontinued,(January 2023 - February 2024),270,310.0,2320.0,5.1,83.7,5,530.0,327.0,88200
+Porsche,Taycan 4S Sport Turismo,Available,to order since February 2024,270,305.0,2270.0,3.7,82.3,5,530.0,358.0,96700
+Vauxhall,Vivaro-e Life XL 75 kWh,Available,to order since June 2024,160,425.0,2240.0,14.2,68.0,9,989.0,319.0,51095
+Tesla,Model S 60D,Discontinued,(June 2016 - April 2017),215,288.0,2183.0,5.4,62.0,5,895.0,0.0,0
+Renault,Zoe R90,Discontinued,(February 2017 - March 2018),85,274.0,1502.0,14.5,23.3,5,338.0,233.0,19845
+Volkswagen,e-Up!,Discontinued,(September 2016 - September 2019),60,267.0,1229.0,12.4,16.0,4,250.0,327.0,19615
+Citroen,E-Berlingo Multispace,Discontinued,(July 2017 - January 2019),60,342.0,1679.0,19.5,20.5,5,1350.0,0.0,0
+Tesla,Model X Performance,Discontinued,(June 2019 - July 2019),275,345.0,2572.0,3.6,95.0,7,491.0,339.0,93150
+Audi,e-tron S Sportback,Discontinued,(October 2020 - September 2021),205,422.0,2695.0,4.5,86.5,5,615.0,433.0,88700
+Citroen,e-C4,Discontinued,(February 2021 - December 2021),175,265.0,1616.0,9.7,46.3,5,380.0,177.0,30895
+Citroen,e-SpaceTourer M 50 kWh,Discontinued,(November 2020 - January 2024),115,403.0,1969.0,12.1,46.3,9,507.0,322.0,37045
+Mercedes-Benz,EQS SUV 580 4MATIC,Discontinued,(March 2023 - December 2023),300,361.0,2810.0,4.6,108.4,7,645.0,465.0,139470
+Mini,Electric Convertible,Discontinued,(February 2023 - February 2024),105,275.0,1540.0,8.2,28.9,4,160.0,500.0,52500
+Skoda,Enyaq Coupe 85x,Discontinued,(October 2023 - January 2025),280,275.0,2230.0,6.6,77.0,5,570.0,180.0,50305
+Volkswagen,e-Up!,Discontinued,(January 2014 - September 2016),55,291.0,1214.0,12.4,16.0,4,250.0,378.0,20780
+Tesla,Model S 70D,Discontinued,(April 2016 - June 2016),220,314.0,2183.0,5.4,69.0,5,895.0,0.0,0
+Peugeot,e-Rifter Long 50 kWh,Discontinued,(October 2021 - January 2024),125,370.0,1841.0,11.7,46.3,7,806.0,281.0,35120
+Ford,Mustang Mach-E GT (MY23),Discontinued,(November 2022 - November 2023),265,343.0,2348.0,4.4,91.0,5,619.0,281.0,74540
+Volkswagen,ID.5 Pro,Discontinued,(July 2022 - November 2023),265,291.0,2118.0,10.4,77.0,5,549.0,191.0,50710
+Porsche,Taycan Turbo Sport Turismo,Available,to order since February 2024,315,308.0,2390.0,2.7,97.0,5,489.0,428.0,134800
+Volvo,EC40 Twin Motor Performance (MY25),Discontinued,(July 2024 - April 2025),250,316.0,2185.0,4.6,79.0,5,435.0,238.0,59555
+Volvo,EC40 Single Motor (MY26),Available,to order since April 2025,220,305.0,2057.0,7.3,67.0,5,435.0,238.0,52410
+Tesla,Model S 70,Discontinued,(April 2016 - June 2016),215,321.0,2102.0,5.8,69.0,5,895.0,0.0,0
+Porsche,Taycan 4S Cross Turismo,Discontinued,(July 2021 - January 2023),260,322.0,2320.0,4.1,83.7,5,530.0,350.0,91000
+Mercedes-Benz,EQE SUV 350 4MATIC,Discontinued,(February 2023 - January 2024),265,336.0,2580.0,6.6,89.0,5,520.0,342.0,90560
+Citroen,e-SpaceTourer M 50 kWh,Available,to order since May 2024,110,421.0,2027.0,13.3,46.3,9,603.0,347.0,38135
+Ford,Mustang Mach-E GT (MY21),Discontinued,(November 2021 - April 2022),255,345.0,2348.0,4.4,88.0,5,619.0,260.0,66280
+Porsche,Taycan Turbo Cross Turismo,Discontinued,(July 2021 - January 2023),245,342.0,2395.0,3.3,83.7,5,489.0,493.0,120900
+Porsche,Taycan Plus Sport Turismo,Discontinued,(March 2022 - February 2024),275,304.0,2235.0,5.4,83.7,5,530.0,308.0,84654
+Porsche,Taycan Turbo Sport Turismo,Discontinued,(March 2022 - February 2024),250,335.0,2405.0,3.2,83.7,5,489.0,507.0,126800
+Ford,Mustang Mach-E SR RWD (MY22),Discontinued,(April 2022 - November 2022),235,298.0,2044.0,6.9,70.0,5,619.0,213.0,50030
+Volvo,EC40 Single Motor (MY25),Discontinued,(April 2024 - April 2025),220,305.0,2057.0,7.3,67.0,5,435.0,239.0,52555
+Abarth,600e Turismo,Available,to order since December 2024,170,299.0,1700.0,6.2,50.8,5,360.0,218.0,36975
+Tesla,Model X Standard Range,Discontinued,(June 2019 - July 2019),220,330.0,2427.0,4.8,72.5,7,491.0,348.0,76550
+Nissan,Ariya e-4ORCE 87kWh - 290 kW,Discontinued,(August 2024 - October 2024),250,348.0,2293.0,5.1,87.0,5,415.0,236.0,59025
+Audi,Q4 Sportback e-tron 40,Discontinued,(November 2021 - January 2024),265,289.0,2120.0,8.5,76.6,5,535.0,197.0,52130
+Kia,Soul EV 39.2 kWh,Discontinued,(September 2022 - May 2024),140,280.0,1610.0,9.9,39.2,5,315.0,235.0,32875
+Audi,SQ8 e-tron Sportback,Discontinued,(May 2023 - November 2024),300,353.0,2725.0,4.5,106.0,5,590.0,338.0,101315
+Mercedes-Benz,EQS AMG 53 4MATIC+,Discontinued,(June 2023 - November 2023),335,324.0,2700.0,3.4,108.4,5,620.0,483.0,161860
+Ford,Focus Electric,Discontinued,(September 2013 - October 2015),65,301.0,1700.0,11.4,19.6,5,237.0,438.0,28500
+Citroen,e-SpaceTourer XL 50 kWh,Discontinued,(November 2021 - January 2024),110,421.0,1989.0,12.1,46.3,9,912.0,344.0,37885
+Porsche,Taycan Turbo S Sport Turismo,Discontinued,(March 2022 - February 2024),245,342.0,2400.0,2.8,83.7,5,489.0,609.0,149300
+Abarth,500e Convertible,Available,to order since May 2023,140,270.0,1435.0,7.0,37.8,4,185.0,266.0,37195
+Porsche,Taycan Turbo Cross Turismo,Discontinued,(January 2023 - February 2024),265,316.0,2395.0,3.3,83.7,5,489.0,478.0,126800
+Porsche,Taycan Turbo S Cross Turismo,Discontinued,(January 2023 - February 2024),255,328.0,2395.0,2.9,83.7,5,489.0,585.0,149300
+Mercedes-Benz,EQE SUV 350 4MATIC,Available,to order since July 2024,270,336.0,2560.0,6.6,90.6,5,520.0,296.0,79940
+Tesla,Model X P90DL,Discontinued,(October 2016 - November 2016),230,372.0,2524.0,3.4,85.5,7,491.0,0.0,0
+Tesla,Model S 60,Discontinued,(June 2016 - April 2017),210,295.0,2102.0,5.8,62.0,5,895.0,0.0,0
+Hyundai,Kona Electric 39 kWh,Discontinued,(September 2018 - June 2019),150,261.0,1610.0,9.7,39.2,5,332.0,182.0,27250
+Smart,EQ fortwo cabrio,Discontinued,(April 2018 - September 2019),55,304.0,1115.0,11.8,16.7,2,260.0,361.0,19835
+Peugeot,e-Traveller Long 50 kWh,Discontinued,(June 2021 - January 2024),115,403.0,1989.0,13.1,46.3,9,989.0,379.0,43625
+Toyota,Proace Verso Long 50 kWh,Discontinued,(February 2024 - August 2024),110,421.0,1989.0,12.1,46.3,8,989.0,395.0,43488
+Porsche,Taycan 4S Plus Sport Turismo,Discontinued,(March 2022 - February 2024),265,316.0,2325.0,4.0,83.7,5,530.0,362.0,95996
+Mercedes-Benz,EQE AMG 53 4MATIC+,Discontinued,(July 2022 - September 2023),280,324.0,2525.0,3.5,90.6,5,430.0,410.0,114750
+Porsche,Taycan 4S Plus,Discontinued,(January 2023 - February 2024),295,284.0,2295.0,4.0,83.7,5,491.0,322.0,94996
+Tesla,Model X P90D,Discontinued,(October 2016 - November 2016),235,364.0,2514.0,4.0,85.5,7,491.0,0.0,0
+Tesla,Model S P90DL,Discontinued,(April 2016 - June 2016),250,342.0,2271.0,3.0,85.5,5,895.0,0.0,0
+Tesla,Model X Performance,Discontinued,(March 2019 - May 2019),260,365.0,2572.0,3.7,95.0,7,491.0,346.0,89850
+Porsche,Taycan Turbo S Cross Turismo,Discontinued,(July 2021 - January 2023),235,356.0,2395.0,2.9,83.7,5,489.0,610.0,143400
+Toyota,Proace Verso Medium 50 kWh,Discontinued,(February 2024 - August 2024),115,403.0,1969.0,12.1,46.3,8,603.0,374.0,42988
+Fisker,Ocean Sport,Discontinued,(March 2023 - June 2024),215,330.0,2300.0,7.4,71.0,5,476.0,172.0,36900
+Tesla,Model X 60D,Discontinued,(October 2016 - February 2017),175,354.0,2427.0,6.2,62.0,7,491.0,0.0,0
+Smart,ForTwo Cabrio Electric Drive,Discontinued,(July 2017 - April 2018),55,304.0,1115.0,11.8,16.7,2,260.0,337.0,18560
+Kia,e-Niro 39 kWh,Discontinued,(July 2020 - December 2020),145,270.0,1667.0,9.8,39.2,5,451.0,204.0,29595
+Peugeot,e-Rifter Standard 50 kWh,Discontinued,(October 2021 - January 2024),125,370.0,1765.0,11.7,46.3,7,571.0,265.0,33120
+Peugeot,e-Traveller Standard 50 kWh,Discontinued,(June 2021 - January 2024),115,403.0,1969.0,13.1,46.3,9,603.0,372.0,42785
+Audi,e-tron Sportback 50 quattro,Discontinued,(October 2021 - September 2022),180,359.0,2445.0,6.8,64.7,5,615.0,355.0,63835
